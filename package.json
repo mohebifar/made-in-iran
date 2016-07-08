@@ -1,0 +1,20 @@
+{
+  "name": "made-in-iran",
+  "version": "1.0.0",
+  "description": "List of cool projects made in Iran",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "made",
+    "in",
+    "iran"
+  ],
+  "author": "Mohamad Mohebifar",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "github": "^2.1.0"
+  }
+}

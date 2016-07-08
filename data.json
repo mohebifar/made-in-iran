@@ -1,0 +1,110 @@
+{
+  "curated": [
+    {
+      "language": "JavaScript",
+      "repos": [
+        "mohebifar/grafgiti",
+        "mohebifar/lebab",
+        "mohebifar/chemozart",
+        "mohebifar/racket",
+        "mohebifar/angular-persian",
+        "mohebifar/react-native-loader",
+        "usablica/persian.js",
+        "evandhq/react-persian-datepicker",
+        "ilxanlar/react-textarea-autoheight",
+        "mdibaiee/node-telegram-api",
+        "mdibaiee/Hawk",
+        "jalaali/jalaali-js",
+        "jalaali/moment-jalaali",
+        "mamal72/telegram-github-search-bot"
+      ]
+    },
+    {
+      "language": "CSS",
+      "repos": [
+        "saeedalipoor/icono",
+        "siamak/licon",
+        "siamak/atom-panda-syntax",
+        "arashmanteghi/simptip",
+        "morteza/bootstrap-rtl"
+      ]
+    },
+    {
+      "language": "PHP",
+      "repos": [
+        "laratalks/payment-gateways",
+        "sasanrose/phpredmin",
+        "reshadman/laravel-mongo-auth",
+        "QuincePHP/Pelastic"
+      ]
+    },
+    {
+      "language": "Ruby",
+      "repos": [
+        "aziz/jalalidate"
+      ]
+    },
+    {
+      "language": "Go",
+      "repos": [
+        "sijad/srtfixer",
+        "fzerorubigd/tmass",
+        "fzerorubigd/onion"
+      ]
+    },
+    {
+      "language": "Android",
+      "repos": [
+        "SaeedMasoumi/FAB-Loading",
+        "alirezaafkar/SunDatePicker",
+        "alirezaafkar/Toolbar",
+        "meNESS/EasyIntro",
+        "navabi/JustifiedTextView",
+        "soroushjavdan/ApplicationLocker",
+        "soroushjavdan/Android-Mandrill-Interface"
+      ]
+    },
+    {
+      "language": "Haskell",
+      "repos": [
+        "mdibaiee/deep-learning-2048-hs"
+      ]
+    },
+    {
+      "language": "C++",
+      "repos": [
+        "mohebifar/openbabel-node",
+        "keyvank/tracy"
+      ]
+    },
+    {
+      "language": "C",
+      "repos": [
+        "aminroosta/sqlite_modern_cpp"
+      ]
+    },
+    {
+      "language": "Font",
+      "repos": [
+        "font-store/font-nika",
+        "font-store/font-behdad",
+        "font-store/font-farbod",
+        "font-store/RitaFontTester",
+        "rastikerdar/vazir-font",
+        "rastikerdar/samim-font",
+        "rastikerdar/tanha-font",
+        "rastikerdar/parastoo-font",
+        "rastikerdar/gandom-font",
+        "rastikerdar/shabnam-font",
+        "BornaIz/Lalezar"
+      ]
+    },
+    {
+      "language": "Other",
+      "repos": [
+        "sijad/iran-cities",
+        "arastu/iran"
+      ]
+    }
+  ]
+}
