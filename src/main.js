@@ -41,7 +41,8 @@ const repositories = data.curated
       .then(result => {
         return {
           language: item.language,
-          repos: result.sort((a, b) => a.stargazers_count < b.stargazers_count ? 1 : -1)
+          repos: result.sort((a, b) => a.stargazers_count < b.stargazers_count ? 1 : -1),
+          anchor: item.anchor || item.language.toLowerCase()
         };
       });
   });

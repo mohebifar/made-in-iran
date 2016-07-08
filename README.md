@@ -4,8 +4,22 @@
 
 If you want to contribute, not that you should only update `data.json`.
 
+## Contents
+ - [JavaScript](#javascript)
+ - [CSS](#css)
+ - [PHP](#php)
+ - [Ruby](#ruby)
+ - [Go](#go)
+ - [Android](#android)
+ - [Haskell](#haskell)
+ - [C++](#cpp)
+ - [C](#c)
+ - [Font](#font)
+ - [Other](#other)
 
-### JavaScript ###
+
+
+<h3><a name="javascript"></a>JavaScript</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2245 | [@mohebifar](https://github.com/mohebifar)/[**lebab**](https://github.com/mohebifar/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://lebab.io/)
@@ -24,7 +38,7 @@ If you want to contribute, not that you should only update `data.json`.
 5 | [@ilxanlar](https://github.com/ilxanlar)/[**react-textarea-autoheight**](https://github.com/ilxanlar/react-textarea-autoheight) | An auto-height textarea component for React | 
 
 
-### CSS ###
+<h3><a name="css"></a>CSS</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3247 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
@@ -34,7 +48,7 @@ If you want to contribute, not that you should only update `data.json`.
 75 | [@siamak](https://github.com/siamak)/[**atom-panda-syntax**](https://github.com/siamak/atom-panda-syntax) | Panda syntax theme for Atom. | [:arrow_upper_right:](http://panda.siamak.work/)
 
 
-### PHP ###
+<h3><a name="php"></a>PHP</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 271 | [@sasanrose](https://github.com/sasanrose)/[**phpredmin**](https://github.com/sasanrose/phpredmin) | Yet another web interface for Redis | 
@@ -43,13 +57,13 @@ If you want to contribute, not that you should only update `data.json`.
 12 | [@QuincePHP](https://github.com/QuincePHP)/[**Pelastic**](https://github.com/QuincePHP/Pelastic) | An explicit abstraction layer on elasticsearch query DSL | [:arrow_upper_right:](http://pelastic.com)
 
 
-### Ruby ###
+<h3><a name="ruby"></a>Ruby</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 28 | [@aziz](https://github.com/aziz)/[**jalalidate**](https://github.com/aziz/jalalidate) | A library for working with Jalali Calendar (a.k.a Persian Calendar) | 
 
 
-### Go ###
+<h3><a name="go"></a>Go</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 44 | [@fzerorubigd](https://github.com/fzerorubigd)/[**onion**](https://github.com/fzerorubigd/onion) | Layer based configuration for #golang | 
@@ -57,7 +71,7 @@ If you want to contribute, not that you should only update `data.json`.
 1 | [@sijad](https://github.com/sijad)/[**srtfixer**](https://github.com/sijad/srtfixer) | Persian subtitle fixer in golang | 
 
 
-### Android ###
+<h3><a name="android"></a>Android</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 394 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**FAB-Loading**](https://github.com/SaeedMasoumi/FAB-Loading) | A loading animation based on Floating Action Button | 
@@ -69,26 +83,26 @@ If you want to contribute, not that you should only update `data.json`.
 18 | [@soroushjavdan](https://github.com/soroushjavdan)/[**Android-Mandrill-Interface**](https://github.com/soroushjavdan/Android-Mandrill-Interface) | An Android Mandrill API Connector | [:arrow_upper_right:](http://soroushjavdan.net/)
 
 
-### Haskell ###
+<h3><a name="haskell"></a>Haskell</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 9 | [@mdibaiee](https://github.com/mdibaiee)/[**deep-learning-2048-hs**](https://github.com/mdibaiee/deep-learning-2048-hs) | Deep Learning 2048, in Haskell | 
 
 
-### C++ ###
+<h3><a name="cpp"></a>C++</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 18 | [@mohebifar](https://github.com/mohebifar)/[**openbabel-node**](https://github.com/mohebifar/openbabel-node) | OpenBabel Bindings for Node.js | 
 3 | [@keyvank](https://github.com/keyvank)/[**tracy**](https://github.com/keyvank/tracy) | A simple open-source 3D engine written fully in C++ | 
 
 
-### C ###
+<h3><a name="c"></a>C</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 62 | [@aminroosta](https://github.com/aminroosta)/[**sqlite_modern_cpp**](https://github.com/aminroosta/sqlite_modern_cpp) | a c++11 wrapper around sqlite library | 
 
 
-### Font ###
+<h3><a name="font"></a>Font</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 186 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-font**](https://github.com/rastikerdar/vazir-font) | A Persian (Farsi) Font - قلم (فونت) فارسی وزیر | 
@@ -104,7 +118,7 @@ If you want to contribute, not that you should only update `data.json`.
 4 | [@font-store](https://github.com/font-store)/[**RitaFontTester**](https://github.com/font-store/RitaFontTester) | Auxiliary tool for the development of Persian-Arabic fonts | [:arrow_upper_right:](http://font-store.github.io/RitaFontTester)
 
 
-### Other ###
+<h3><a name="other"></a>Other</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 65 | [@arastu](https://github.com/arastu)/[**iran**](https://github.com/arastu/iran) | Administrative divisions of Iran in json and xml formats - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال - made with &lt;3 and Node.js | 
