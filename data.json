@@ -16,7 +16,8 @@
         "mdibaiee/Hawk",
         "jalaali/jalaali-js",
         "jalaali/moment-jalaali",
-        "mamal72/telegram-github-search-bot"
+        "mamal72/telegram-github-search-bot",
+        "siamak/zarinpal-checkout"
       ]
     },
     {
