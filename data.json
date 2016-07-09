@@ -53,7 +53,9 @@
         "laratalks/payment-gateways",
         "sasanrose/phpredmin",
         "reshadman/laravel-mongo-auth",
-        "QuincePHP/Pelastic"
+        "QuincePHP/Pelastic",
+        "smoqadam/php-telegram-bot",
+        "smoqadam/php-telegram-cli"
       ]
     },
     {
