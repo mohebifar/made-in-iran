@@ -6,7 +6,7 @@ const GitHubApi = require('github');
 const ejs = require('ejs');
 
 const DEBUG = process.env.NODE_ENV === 'development';
-const AUTH_TOKEN = process.env.AUTH_TOKEN;
+const GITHUB_AUTH_TOKEN = process.env.GITHUB_AUTH_TOKEN;
 
 const templateFilePath = `${__dirname}/template.md`;
 const outputFilePath = `${__dirname}/../README.md`;
@@ -22,7 +22,7 @@ const github = new GitHubApi({
 
 github.authenticate({
   type: "oauth",
-  token: AUTH_TOKEN
+  token: GITHUB_AUTH_TOKEN
 });
 
 const repositories = data.curated
