@@ -17,6 +17,14 @@
         "jalaali/jalaali-js",
         "jalaali/moment-jalaali",
         "mamal72/telegram-github-search-bot",
+        "mamal72/react-github",
+        "mamal72/node-yahoo-weather",
+        "mamal72/rtl-md",
+        "mamal72/electron-jalali-calendar",
+        "mamal72/gooz",
+        "mamal72/atom-isup",
+        "smoqadam/add-to-feedly",
+        "smoqadam/url-to-qrcode-firefox-addon",
         "siamak/zarinpal-checkout"
       ]
     },
