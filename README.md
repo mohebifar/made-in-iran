@@ -2,7 +2,7 @@
 
 > A list of neat projects made in Iran.
 
-If you want to contribute, not that you should only update `data.json`.
+If you want to contribute, note that you should only update `data.json`.
 
 ## Contents
  - [JavaScript](#javascript)
