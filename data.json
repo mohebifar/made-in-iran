@@ -1,7 +1,7 @@
 {
   "curated": [
     {
-      "language": "JavaScript",
+      "category": "JavaScript",
       "repos": [
         "mohebifar/grafgiti",
         "mohebifar/lebab",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "language": "CSS",
+      "category": "CSS",
       "repos": [
         "saeedalipoor/icono",
         "siamak/licon",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "language": "Python",
+      "category": "Python",
       "repos": [
         "smoqadam/python-tips",
         "smoqadam/PyFladesk",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "language": "PHP",
+      "category": "PHP",
       "repos": [
         "laratalks/payment-gateways",
         "sasanrose/phpredmin",
@@ -59,13 +59,13 @@
       ]
     },
     {
-      "language": "Ruby",
+      "category": "Ruby",
       "repos": [
         "aziz/jalalidate"
       ]
     },
     {
-      "language": "Go",
+      "category": "Go",
       "repos": [
         "sijad/srtfixer",
         "fzerorubigd/tmass",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "language": "Android",
+      "category": "Android",
       "repos": [
         "SaeedMasoumi/FAB-Loading",
         "alirezaafkar/SunDatePicker",
@@ -85,13 +85,13 @@
       ]
     },
     {
-      "language": "Haskell",
+      "category": "Haskell",
       "repos": [
         "mdibaiee/deep-learning-2048-hs"
       ]
     },
     {
-      "language": "C++",
+      "category": "C++",
       "anchor": "cpp",
       "repos": [
         "mohebifar/openbabel-node",
@@ -99,13 +99,13 @@
       ]
     },
     {
-      "language": "C",
+      "category": "C",
       "repos": [
         "aminroosta/sqlite_modern_cpp"
       ]
     },
     {
-      "language": "Font",
+      "category": "Font",
       "repos": [
         "font-store/font-nika",
         "font-store/font-behdad",
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "language": "Other",
+      "category": "Other",
       "repos": [
         "sijad/iran-cities",
         "arastu/iran"
