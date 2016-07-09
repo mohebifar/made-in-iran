@@ -40,9 +40,9 @@ const repositories = data.curated
       .all(fetchReposPromise)
       .then(result => {
         return {
-          language: item.language,
+          category: item.category,
           repos: result.sort((a, b) => a.stargazers_count < b.stargazers_count ? 1 : -1),
-          anchor: item.anchor || item.language.toLowerCase()
+          anchor: item.anchor || item.category.toLowerCase()
         };
       });
   });
