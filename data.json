@@ -39,6 +39,15 @@
       ]
     },
     {
+      "language": "Python",
+      "repos": [
+        "smoqadam/python-tips",
+        "smoqadam/PyFladesk",
+        "smoqadam/PyFladesk-rss-reader",
+        "mamal72/telegram-iranbot"
+      ]
+    },
+    {
       "language": "PHP",
       "repos": [
         "laratalks/payment-gateways",

@@ -7,6 +7,7 @@ If you want to contribute, not that you should only update `data.json`.
 ## Contents
  - [JavaScript](#javascript)
  - [CSS](#css)
+ - [Python](#python)
  - [PHP](#php)
  - [Ruby](#ruby)
  - [Go](#go)
@@ -55,6 +56,15 @@ If you want to contribute, not that you should only update `data.json`.
 574 | [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl) | RTL Theme for Bootstrap v3.x | 
 380 | [@siamak](https://github.com/siamak)/[**licon**](https://github.com/siamak/licon) | Lightness and Useful icons with Pure CSS3 | [:arrow_upper_right:](http://siamak.github.io/licon)
 76 | [@siamak](https://github.com/siamak)/[**atom-panda-syntax**](https://github.com/siamak/atom-panda-syntax) | Panda syntax theme for Atom. | [:arrow_upper_right:](http://panda.siamak.work/)
+
+
+<h3><a name="python"></a>Python</h3>
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+71 | [@smoqadam](https://github.com/smoqadam)/[**python-tips**](https://github.com/smoqadam/python-tips) | List of python tips | 
+60 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk**](https://github.com/smoqadam/PyFladesk) | create desktop application by using Flask and QtWebKit  | 
+31 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk-rss-reader**](https://github.com/smoqadam/PyFladesk-rss-reader) | simple rss reader by PyFladesk | 
+5 | [@mamal72](https://github.com/mamal72)/[**telegram-iranbot**](https://github.com/mamal72/telegram-iranbot) | :earth_americas: A dead simple Telegram bot for FA to FA, EN to FA translation | 
 
 
 <h3><a name="php"></a>PHP</h3>
