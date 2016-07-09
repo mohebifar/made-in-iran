@@ -121,6 +121,12 @@
       ]
     },
     {
+      "category": "Boilerplate",
+      "repos": [
+        "HosseinKarami/fastshel"
+      ]
+    },
+    {
       "category": "Other",
       "repos": [
         "sijad/iran-cities",
