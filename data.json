@@ -105,6 +105,12 @@
       ]
     },
     {
+      "category": "Lua",
+      "repos": [
+        "psamim/telegram-cli-backup"
+      ]
+    },
+    {
       "category": "Font",
       "repos": [
         "font-store/font-nika",
