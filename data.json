@@ -105,6 +105,12 @@
       ]
     },
     {
+      "category": "C#",
+      "repos": [
+        "zumoshi/BrowserSelect"
+      ]
+    },
+    {
       "category": "Lua",
       "repos": [
         "psamim/telegram-cli-backup"
