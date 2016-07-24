@@ -25,8 +25,8 @@ If you want to contribute, note that you should only update `data.json`.
 <h3><a name="javascript"></a>JavaScript</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-2276 | [@mohebifar](https://github.com/mohebifar)/[**lebab**](https://github.com/mohebifar/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://lebab.io/)
-197 | [@mohebifar](https://github.com/mohebifar)/[**racket**](https://github.com/mohebifar/racket) | A complete starting app for developing universal React/Redux web apps with generators, best practices and more | [:arrow_upper_right:](https://racket-demo.herokuapp.com/)
+2277 | [@mohebifar](https://github.com/mohebifar)/[**lebab**](https://github.com/mohebifar/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://lebab.io/)
+202 | [@mohebifar](https://github.com/mohebifar)/[**racket**](https://github.com/mohebifar/racket) | A complete starting app for developing universal React/Redux web apps with generators, best practices and more | [:arrow_upper_right:](https://racket-demo.herokuapp.com/)
 192 | [@mohebifar](https://github.com/mohebifar)/[**grafgiti**](https://github.com/mohebifar/grafgiti) | Vandalize your github contributions wall. | 
 154 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
 114 | [@mohebifar](https://github.com/mohebifar)/[**chemozart**](https://github.com/mohebifar/chemozart) | Web-based 3D molecule editor and visualizer with molecular mechanics calculators. | [:arrow_upper_right:](https://chemozart.com/)
@@ -55,7 +55,7 @@ If you want to contribute, note that you should only update `data.json`.
 --- | --- | --- | ---
 3264 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
 618 | [@arashmanteghi](https://github.com/arashmanteghi)/[**simptip**](https://github.com/arashmanteghi/simptip) | A simple CSS tooltip made with Sass | [:arrow_upper_right:](http://arashm.net/lab/simptip/)
-582 | [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl) | RTL Theme for Bootstrap v3.x | 
+581 | [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl) | RTL Theme for Bootstrap v3.x | 
 379 | [@siamak](https://github.com/siamak)/[**licon**](https://github.com/siamak/licon) | Lightness and Useful icons with Pure CSS3 | [:arrow_upper_right:](http://siamak.github.io/licon)
 77 | [@siamak](https://github.com/siamak)/[**atom-panda-syntax**](https://github.com/siamak/atom-panda-syntax) | Panda syntax theme for Atom. | [:arrow_upper_right:](http://panda.siamak.work/)
 
@@ -97,7 +97,7 @@ If you want to contribute, note that you should only update `data.json`.
 <h3><a name="android"></a>Android</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-396 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**FAB-Loading**](https://github.com/SaeedMasoumi/FAB-Loading) | A loading animation based on Floating Action Button | 
+397 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**FAB-Loading**](https://github.com/SaeedMasoumi/FAB-Loading) | A loading animation based on Floating Action Button | 
 72 | [@alirezaafkar](https://github.com/alirezaafkar)/[**SunDatePicker**](https://github.com/alirezaafkar/SunDatePicker) | Date picker for Iranian calendar | 
 68 | [@navabi](https://github.com/navabi)/[**JustifiedTextView**](https://github.com/navabi/JustifiedTextView) | a custom view that simulate justified text for you | 
 47 | [@alirezaafkar](https://github.com/alirezaafkar)/[**Toolbar**](https://github.com/alirezaafkar/Toolbar) | Android toolbar with layout direction support | 
@@ -150,7 +150,7 @@ If you want to contribute, note that you should only update `data.json`.
 25 | [@font-store](https://github.com/font-store)/[**font-nika**](https://github.com/font-store/font-nika) | Nika-Persian Font | 
 20 | [@rastikerdar](https://github.com/rastikerdar)/[**gandom-font**](https://github.com/rastikerdar/gandom-font) | A Persian (Farsi) Font - فونت (قلم) فارسی گندم | 
 14 | [@font-store](https://github.com/font-store)/[**font-farbod**](https://github.com/font-store/font-farbod) | Farbod is  Open Source Font For Text | 
-4 | [@font-store](https://github.com/font-store)/[**RitaFontTester**](https://github.com/font-store/RitaFontTester) | Auxiliary tool for the development of Persian-Arabic fonts | [:arrow_upper_right:](http://font-store.github.io/RitaFontTester)
+5 | [@font-store](https://github.com/font-store)/[**RitaFontTester**](https://github.com/font-store/RitaFontTester) | Auxiliary tool for the development of Persian-Arabic fonts | [:arrow_upper_right:](http://font-store.github.io/RitaFontTester)
 
 
 <h3><a name="other"></a>Other</h3>
