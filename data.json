@@ -88,7 +88,9 @@
     {
       "category": "Erlang",
       "repos": [
-        "bisphone/Tnesia"
+        "bisphone/Tnesia",
+        "bisphone/Queuesk",
+        "hamidreza-s/Evedis"
       ]
     },
     {
