@@ -108,7 +108,8 @@
     {
       "category": "C",
       "repos": [
-        "aminroosta/sqlite_modern_cpp"
+        "aminroosta/sqlite_modern_cpp",
+        "hamidreza-s/NanoChat"
       ]
     },
     {
