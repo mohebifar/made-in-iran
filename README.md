@@ -49,7 +49,7 @@ If you want to contribute, note that you should only update `data.json`.
 5 | [@ilxanlar](https://github.com/ilxanlar)/[**react-textarea-autoheight**](https://github.com/ilxanlar/react-textarea-autoheight) | An auto-height textarea component for React | 
 4 | [@mamal72](https://github.com/mamal72)/[**atom-isup**](https://github.com/mamal72/atom-isup) | :octocat: Simple Atom package to check website up or down status using isitup | 
 4 | [@mamal72](https://github.com/mamal72)/[**node-yahoo-weather**](https://github.com/mamal72/node-yahoo-weather) | :umbrella: A simple isomorphic yahoo weather API wrapper in 10 lines of code | 
-
+3 | [@morajabi](https://github.com/morajabi)/[**rc-classnames**](https://github.com/morajabi/rc-classnames) | Manage classNames conditionally in React and JSX easily | 
 
 <h3><a name="css"></a>CSS</h3>
 :star2: | Name | Description | 🌍
