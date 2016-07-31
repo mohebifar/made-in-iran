@@ -45,11 +45,13 @@ If you want to contribute, note that you should only update `data.json`.
 9 | [@mdibaiee](https://github.com/mdibaiee)/[**Hawk**](https://github.com/mdibaiee/Hawk) | The missing Firefox OS file manager | [:arrow_upper_right:](http://dibaiee.ir/Hawk)
 7 | [@mamal72](https://github.com/mamal72)/[**rtl-md**](https://github.com/mamal72/rtl-md) | :pencil: A simple markdown to html converter which knows the direction! | 
 7 | [@mamal72](https://github.com/mamal72)/[**gooz**](https://github.com/mamal72/gooz) | :dash: Send the old sh*tty browsers away from your website as simple as a Gooz | 
+6 | [@siamak](https://github.com/siamak)/[**react-for-developers**](https://github.com/siamak/react-for-developers) | Twitter client example in React and NodeJS | 
 6 | [@smoqadam](https://github.com/smoqadam)/[**url-to-qrcode-firefox-addon**](https://github.com/smoqadam/url-to-qrcode-firefox-addon) | an add-on to convert current url to qr code !! | 
 5 | [@ilxanlar](https://github.com/ilxanlar)/[**react-textarea-autoheight**](https://github.com/ilxanlar/react-textarea-autoheight) | An auto-height textarea component for React | 
 4 | [@mamal72](https://github.com/mamal72)/[**atom-isup**](https://github.com/mamal72/atom-isup) | :octocat: Simple Atom package to check website up or down status using isitup | 
 4 | [@mamal72](https://github.com/mamal72)/[**node-yahoo-weather**](https://github.com/mamal72/node-yahoo-weather) | :umbrella: A simple isomorphic yahoo weather API wrapper in 10 lines of code | 
 3 | [@morajabi](https://github.com/morajabi)/[**rc-classnames**](https://github.com/morajabi/rc-classnames) | Manage classNames conditionally in React and JSX easily | 
+
 
 <h3><a name="css"></a>CSS</h3>
 :star2: | Name | Description | 🌍
