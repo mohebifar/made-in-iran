@@ -16,7 +16,7 @@ let data = require('./../data.json');
 const github = new GitHubApi({
   debug: DEBUG,
   followRedirects: false,
-  timeout: 5000,
+  timeout: 10000,
   Promise: Promise
 });
 
