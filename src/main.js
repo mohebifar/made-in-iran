@@ -29,10 +29,10 @@ const repositories = data.curated
   .map(item => {
     const fetchReposPromise = item.repos
       .map(repoPath => {
-        const [user, repo] = repoPath.split('/');
+        const separatedRepoPath = repoPath.split('/');
         return github.repos.get({
-          user,
-          repo
+          user: separatedRepoPath[0],
+          repo: separatedRepoPath[1]
         });
       });
 
