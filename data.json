@@ -17,7 +17,10 @@
         "jalaali/jalaali-js",
         "jalaali/moment-jalaali",
         "mamal72/telegram-github-search-bot",
-        "siamak/zarinpal-checkout"
+        "siamak/zarinpal-checkout",
+        "siamak/react-for-developers",
+        "siamak/hyperterm-panda",
+        "siamak/webpack-react-babel-boilerplate"
       ]
     },
     {
@@ -27,7 +30,8 @@
         "siamak/licon",
         "siamak/atom-panda-syntax",
         "arashmanteghi/simptip",
-        "morteza/bootstrap-rtl"
+        "morteza/bootstrap-rtl",
+        "siamak/FOWDConf94"
       ]
     },
     {
