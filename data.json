@@ -1,157 +1,146 @@
 {
-  "curated": [
-    {
-      "category": "JavaScript",
-      "repos": [
-        "mohebifar/grafgiti",
-        "mohebifar/lebab",
-        "mohebifar/chemozart",
-        "mohebifar/racket",
-        "mohebifar/angular-persian",
-        "mohebifar/react-native-loader",
-        "usablica/persian.js",
-        "evandhq/react-persian-datepicker",
-        "ilxanlar/react-textarea-autoheight",
-        "mdibaiee/node-telegram-api",
-        "mdibaiee/Hawk",
-        "jalaali/jalaali-js",
-        "jalaali/moment-jalaali",
-        "mamal72/telegram-github-search-bot",
-        "mamal72/react-github",
-        "mamal72/node-yahoo-weather",
-        "mamal72/rtl-md",
-        "mamal72/electron-jalali-calendar",
-        "mamal72/gooz",
-        "mamal72/atom-isup",
-        "smoqadam/add-to-feedly",
-        "smoqadam/url-to-qrcode-firefox-addon",
-        "siamak/zarinpal-checkout",
-        "siamak/react-for-developers",
-        "siamak/hyperterm-panda",
-        "siamak/webpack-react-babel-boilerplate"
-      ]
-    },
-    {
-      "category": "CSS",
-      "repos": [
-        "saeedalipoor/icono",
-        "siamak/licon",
-        "siamak/atom-panda-syntax",
-        "arashmanteghi/simptip",
-        "morteza/bootstrap-rtl",
-        "siamak/FOWDConf94"
-      ]
-    },
-    {
-      "category": "Python",
-      "repos": [
-        "smoqadam/python-tips",
-        "smoqadam/PyFladesk",
-        "smoqadam/PyFladesk-rss-reader",
-        "mamal72/telegram-iranbot",
-        "psamim/aria2-telegram-bot"
-      ]
-    },
-    {
-      "category": "PHP",
-      "repos": [
-        "laratalks/payment-gateways",
-        "sasanrose/phpredmin",
-        "reshadman/laravel-mongo-auth",
-        "QuincePHP/Pelastic",
-        "smoqadam/php-telegram-bot",
-        "smoqadam/php-telegram-cli"
-      ]
-    },
-    {
-      "category": "Ruby",
-      "repos": [
-        "aziz/jalalidate"
-      ]
-    },
-    {
-      "category": "Go",
-      "repos": [
-        "sijad/srtfixer",
-        "fzerorubigd/tmass",
-        "fzerorubigd/onion"
-      ]
-    },
-    {
-      "category": "Android",
-      "repos": [
-        "SaeedMasoumi/FAB-Loading",
-        "alirezaafkar/SunDatePicker",
-        "alirezaafkar/Toolbar",
-        "meNESS/EasyIntro",
-        "navabi/JustifiedTextView",
-        "soroushjavdan/ApplicationLocker",
-        "soroushjavdan/Android-Mandrill-Interface"
-      ]
-    },
-    {
-      "category": "Erlang",
-      "repos": [
-        "bisphone/Tnesia",
-        "bisphone/Queuesk",
-        "hamidreza-s/Evedis"
-      ]
-    },
-    {
-      "category": "Haskell",
-      "repos": [
-        "mdibaiee/sibe"
-      ]
-    },
-    {
-      "category": "C++",
-      "anchor": "cpp",
-      "repos": [
-        "mohebifar/openbabel-node",
-        "keyvank/tracy"
-      ]
-    },
-    {
-      "category": "C",
-      "repos": [
-        "aminroosta/sqlite_modern_cpp",
-        "hamidreza-s/NanoChat"
-      ]
-    },
-    {
-      "category": "C#",
-      "repos": [
-        "zumoshi/BrowserSelect"
-      ]
-    },
-    {
-      "category": "Lua",
-      "repos": [
-        "psamim/telegram-cli-backup"
-      ]
-    },
-    {
-      "category": "Font",
-      "repos": [
-        "font-store/font-nika",
-        "font-store/font-behdad",
-        "font-store/font-farbod",
-        "font-store/RitaFontTester",
-        "rastikerdar/vazir-font",
-        "rastikerdar/samim-font",
-        "rastikerdar/tanha-font",
-        "rastikerdar/parastoo-font",
-        "rastikerdar/gandom-font",
-        "rastikerdar/shabnam-font",
-        "BornaIz/Lalezar"
-      ]
-    },
-    {
-      "category": "Other",
-      "repos": [
-        "sijad/iran-cities",
-        "arastu/iran"
-      ]
-    }
-  ]
+  "curated": [{
+    "category": "JavaScript",
+    "repos": [
+      "mohebifar/grafgiti",
+      "mohebifar/lebab",
+      "mohebifar/chemozart",
+      "mohebifar/racket",
+      "mohebifar/angular-persian",
+      "mohebifar/react-native-loader",
+      "usablica/persian.js",
+      "evandhq/react-persian-datepicker",
+      "ilxanlar/react-textarea-autoheight",
+      "mdibaiee/node-telegram-api",
+      "mdibaiee/Hawk",
+      "jalaali/jalaali-js",
+      "jalaali/moment-jalaali",
+      "mamal72/telegram-github-search-bot",
+      "mamal72/react-github",
+      "mamal72/node-yahoo-weather",
+      "mamal72/rtl-md",
+      "mamal72/electron-jalali-calendar",
+      "mamal72/gooz",
+      "mamal72/atom-isup",
+      "smoqadam/add-to-feedly",
+      "smoqadam/url-to-qrcode-firefox-addon",
+      "siamak/zarinpal-checkout",
+      "siamak/react-for-developers",
+      "siamak/hyperterm-panda",
+      "siamak/webpack-react-babel-boilerplate"
+    ]
+  }, {
+    "category": "CSS",
+    "repos": [
+      "saeedalipoor/icono",
+      "siamak/licon",
+      "siamak/atom-panda-syntax",
+      "arashmanteghi/simptip",
+      "morteza/bootstrap-rtl"
+    ]
+  }, {
+    "category": "Boilerplates",
+    "repos": [
+      "siamak/FOWDConf94",
+      "sallar/rwd-conf-92"
+    ]
+  } {
+    "category": "Python",
+    "repos": [
+      "smoqadam/python-tips",
+      "smoqadam/PyFladesk",
+      "smoqadam/PyFladesk-rss-reader",
+      "mamal72/telegram-iranbot",
+      "psamim/aria2-telegram-bot"
+    ]
+  }, {
+    "category": "PHP",
+    "repos": [
+      "laratalks/payment-gateways",
+      "sasanrose/phpredmin",
+      "reshadman/laravel-mongo-auth",
+      "QuincePHP/Pelastic",
+      "smoqadam/php-telegram-bot",
+      "smoqadam/php-telegram-cli"
+    ]
+  }, {
+    "category": "Ruby",
+    "repos": [
+      "aziz/jalalidate"
+    ]
+  }, {
+    "category": "Go",
+    "repos": [
+      "sijad/srtfixer",
+      "fzerorubigd/tmass",
+      "fzerorubigd/onion"
+    ]
+  }, {
+    "category": "Android",
+    "repos": [
+      "SaeedMasoumi/FAB-Loading",
+      "alirezaafkar/SunDatePicker",
+      "alirezaafkar/Toolbar",
+      "meNESS/EasyIntro",
+      "navabi/JustifiedTextView",
+      "soroushjavdan/ApplicationLocker",
+      "soroushjavdan/Android-Mandrill-Interface"
+    ]
+  }, {
+    "category": "Erlang",
+    "repos": [
+      "bisphone/Tnesia",
+      "bisphone/Queuesk",
+      "hamidreza-s/Evedis"
+    ]
+  }, {
+    "category": "Haskell",
+    "repos": [
+      "mdibaiee/sibe"
+    ]
+  }, {
+    "category": "C++",
+    "anchor": "cpp",
+    "repos": [
+      "mohebifar/openbabel-node",
+      "keyvank/tracy"
+    ]
+  }, {
+    "category": "C",
+    "repos": [
+      "aminroosta/sqlite_modern_cpp",
+      "hamidreza-s/NanoChat"
+    ]
+  }, {
+    "category": "C#",
+    "repos": [
+      "zumoshi/BrowserSelect"
+    ]
+  }, {
+    "category": "Lua",
+    "repos": [
+      "psamim/telegram-cli-backup"
+    ]
+  }, {
+    "category": "Font",
+    "repos": [
+      "font-store/font-nika",
+      "font-store/font-behdad",
+      "font-store/font-farbod",
+      "font-store/RitaFontTester",
+      "rastikerdar/vazir-font",
+      "rastikerdar/samim-font",
+      "rastikerdar/tanha-font",
+      "rastikerdar/parastoo-font",
+      "rastikerdar/gandom-font",
+      "rastikerdar/shabnam-font",
+      "BornaIz/Lalezar"
+    ]
+  }, {
+    "category": "Other",
+    "repos": [
+      "sijad/iran-cities",
+      "arastu/iran"
+    ]
+  }]
 }
