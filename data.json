@@ -41,6 +41,13 @@
         "arashmanteghi/simptip",
         "morteza/bootstrap-rtl"
       ]
+    }, {
+      "category": "Boilerplates",
+      "repos": [
+        "siamak/FOWDConf94",
+        "sallar/rwd-conf-92",
+        "siamak/webpack-react-babel-boilerplate"
+      ]
     },
     {
       "category": "Python",
