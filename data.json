@@ -17,8 +17,6 @@
         "jalaali/jalaali-js",
         "jalaali/moment-jalaali",
         "mamal72/telegram-github-search-bot",
-<<<<<<< HEAD
-<<<<<<< f396008f2d2d6c911ac2fb596ba3827543200866
         "mamal72/react-github",
         "mamal72/node-yahoo-weather",
         "mamal72/rtl-md",
@@ -27,18 +25,10 @@
         "mamal72/atom-isup",
         "smoqadam/add-to-feedly",
         "smoqadam/url-to-qrcode-firefox-addon",
-        "siamak/zarinpal-checkout"
-=======
-=======
->>>>>>> b181ac41a47461eee1bd03eb4de02c1430ec29e8
         "siamak/zarinpal-checkout",
         "siamak/react-for-developers",
         "siamak/hyperterm-panda",
         "siamak/webpack-react-babel-boilerplate"
-<<<<<<< HEAD
->>>>>>> All of me :)
-=======
->>>>>>> b181ac41a47461eee1bd03eb4de02c1430ec29e8
       ]
     },
     {
