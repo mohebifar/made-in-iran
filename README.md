@@ -63,7 +63,6 @@ If you want to contribute, note that you should only update `data.json`.
 590 | [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl) | RTL Theme for Bootstrap v3.x | 
 380 | [@siamak](https://github.com/siamak)/[**licon**](https://github.com/siamak/licon) | Lightness and Useful icons with Pure CSS3 | [:arrow_upper_right:](http://siamak.github.io/licon)
 76 | [@siamak](https://github.com/siamak)/[**atom-panda-syntax**](https://github.com/siamak/atom-panda-syntax) | Panda syntax theme for Atom. | [:arrow_upper_right:](http://panda.siamak.work/)
-0 | [@z-avanes](https://github.com/z-avanes)/[**bootstrap-rtl**](https://github.com/z-avanes/bootstrap-rtl) | Bootstrap v3.x RTL with sass and gulp | [:arrow_upper_right:](http://www.avadesigner.com/bootstrap-3-rtl)
 
 
 <h3><a name="python"></a>Python</h3>
