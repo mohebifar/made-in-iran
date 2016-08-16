@@ -39,7 +39,8 @@
         "siamak/licon",
         "siamak/atom-panda-syntax",
         "arashmanteghi/simptip",
-        "morteza/bootstrap-rtl"
+        "morteza/bootstrap-rtl",
+        "z-avanes/bootstrap-rtl"
       ]
     }, {
       "category": "Boilerplates",
