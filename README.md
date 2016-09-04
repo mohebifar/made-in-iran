@@ -54,7 +54,7 @@ If you want to contribute, note that you should only update `data.json`.
 5 | [@ilxanlar](https://github.com/ilxanlar)/[**react-textarea-autoheight**](https://github.com/ilxanlar/react-textarea-autoheight) | An auto-height textarea component for React | 
 4 | [@mamal72](https://github.com/mamal72)/[**node-yahoo-weather**](https://github.com/mamal72/node-yahoo-weather) | :umbrella: A simple isomorphic yahoo weather API wrapper in 10 lines of code | 
 4 | [@mamal72](https://github.com/mamal72)/[**atom-isup**](https://github.com/mamal72/atom-isup) | :octocat: Simple Atom package to check website up or down status using isitup | 
-
+0 | [@hamidfaraji](https://github.com/HamidFaraji)/[**Lorem Ipsum Generator**](https://github.com/HamidFaraji/LoremIpsumGenerator) | :memo: Simple Typescript class to generate multi language & multi type lorem ipsum texts | 
 
 <h3><a name="css"></a>CSS</h3>
 :star2: | Name | Description | 🌍
