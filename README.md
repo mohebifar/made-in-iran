@@ -27,27 +27,27 @@ If you want to contribute, note that you should only update `data.json`.
 <h3><a name="javascript"></a>JavaScript</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-2334 | [@mohebifar](https://github.com/mohebifar)/[**lebab**](https://github.com/mohebifar/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://lebab.io/)
-530 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
-445 | [@AriaMinaei](https://github.com/AriaMinaei)/[**TheatreJS**](https://github.com/AriaMinaei/TheatreJS) | A high-performance animation editor for the web. | 
+2348 | [@mohebifar](https://github.com/mohebifar)/[**lebab**](https://github.com/mohebifar/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://lebab.io/)
+533 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
+446 | [@AriaMinaei](https://github.com/AriaMinaei)/[**TheatreJS**](https://github.com/AriaMinaei/TheatreJS) | A high-performance animation editor for the web. | 
 401 | [@AriaMinaei](https://github.com/AriaMinaei)/[**Griddify**](https://github.com/AriaMinaei/Griddify) | A tiny Photoshop panel to make guides and grids | [:arrow_upper_right:](http://gelobi.org/griddify)
-240 | [@mohebifar](https://github.com/mohebifar)/[**racket**](https://github.com/mohebifar/racket) | A complete starting app for developing universal React/Redux web apps with generators, best practices and more | [:arrow_upper_right:](https://racket-demo.herokuapp.com/)
-208 | [@mohebifar](https://github.com/mohebifar)/[**grafgiti**](https://github.com/mohebifar/grafgiti) | Vandalize your github contributions wall. | 
-166 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
-115 | [@mohebifar](https://github.com/mohebifar)/[**chemozart**](https://github.com/mohebifar/chemozart) | Web-based 3D molecule editor and visualizer with molecular mechanics calculators. | [:arrow_upper_right:](https://chemozart.com/)
+245 | [@mohebifar](https://github.com/mohebifar)/[**racket**](https://github.com/mohebifar/racket) | A complete starting app for developing universal React/Redux web apps with generators, best practices and more | [:arrow_upper_right:](https://racket-demo.herokuapp.com/)
+221 | [@mohebifar](https://github.com/mohebifar)/[**grafgiti**](https://github.com/mohebifar/grafgiti) | Vandalize your github contributions wall. | 
+168 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
+116 | [@mohebifar](https://github.com/mohebifar)/[**chemozart**](https://github.com/mohebifar/chemozart) | Web-based 3D molecule editor and visualizer with molecular mechanics calculators. | [:arrow_upper_right:](https://chemozart.com/)
 98 | [@usablica](https://github.com/usablica)/[**persian.js**](https://github.com/usablica/persian.js) | A simple library for Persian language localization. | [:arrow_upper_right:](http://usablica.github.com/persian.js/)
-88 | [@mdibaiee](https://github.com/mdibaiee)/[**node-telegram-api**](https://github.com/mdibaiee/node-telegram-api) | Control Telegram bots easily | 
-78 | [@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian) | :earth_asia: Persian tools for angular.js | 
+89 | [@mdibaiee](https://github.com/mdibaiee)/[**node-telegram-api**](https://github.com/mdibaiee/node-telegram-api) | Control Telegram bots easily | 
+83 | [@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian) | :earth_asia: Persian tools for angular.js | 
+60 | [@mohebifar](https://github.com/mohebifar)/[**react-native-loader**](https://github.com/mohebifar/react-native-loader) | A collection of animated spinners for React Native | 
 59 | [@AriaMinaei](https://github.com/AriaMinaei)/[**RenderKid**](https://github.com/AriaMinaei/RenderKid) | Stylish console.log for node | 
-54 | [@mohebifar](https://github.com/mohebifar)/[**react-native-loader**](https://github.com/mohebifar/react-native-loader) | A collection of animated spinners for React Native | 
+39 | [@evandhq](https://github.com/evandhq)/[**react-persian-datepicker**](https://github.com/evandhq/react-persian-datepicker) | A Persian date-picker component for react.js | [:arrow_upper_right:](https://evandhq.github.io/react-persian-datepicker/)
 39 | [@jalaali](https://github.com/jalaali)/[**jalaali-js**](https://github.com/jalaali/jalaali-js) | JavaScript functions for converting Jalaali and Gregorian calendar systems to each other | 
-36 | [@evandhq](https://github.com/evandhq)/[**react-persian-datepicker**](https://github.com/evandhq/react-persian-datepicker) | :calendar: A Persian date-picker component for react.js | [:arrow_upper_right:](http://evandhq.github.io/react-persian-datepicker/)
 33 | [@mamal72](https://github.com/mamal72)/[**telegram-github-search-bot**](https://github.com/mamal72/telegram-github-search-bot) | :octocat: A Github search bot for Telegram | [:arrow_upper_right:](https://telegram.me/GithubSearchBot)
 13 | [@mamal72](https://github.com/mamal72)/[**react-github**](https://github.com/mamal72/react-github) | :octocat: A set of useful Github components for React | 
 11 | [@mamal72](https://github.com/mamal72)/[**electron-jalali-calendar**](https://github.com/mamal72/electron-jalali-calendar) | :calendar: A simple menubar app for Jalali calendar built by Electron and React | 
+11 | [@siamak](https://github.com/siamak)/[**zarinpal-checkout**](https://github.com/siamak/zarinpal-checkout) | ☼ Simple implementation of ZarinPal Node.js | [:arrow_upper_right:](http://zarinpal.com)
 10 | [@mdibaiee](https://github.com/mdibaiee)/[**Hawk**](https://github.com/mdibaiee/Hawk) | The missing Firefox OS file manager | [:arrow_upper_right:](http://dibaiee.ir/Hawk)
 10 | [@smoqadam](https://github.com/smoqadam)/[**add-to-feedly**](https://github.com/smoqadam/add-to-feedly) | a firefox extension to add a website to feedly ;) | 
-10 | [@siamak](https://github.com/siamak)/[**zarinpal-checkout**](https://github.com/siamak/zarinpal-checkout) | ☼ Simple implementation of ZarinPal Node.js | [:arrow_upper_right:](http://zarinpal.com)
 7 | [@mamal72](https://github.com/mamal72)/[**rtl-md**](https://github.com/mamal72/rtl-md) | :pencil: A simple markdown to html converter which knows the direction! | 
 7 | [@mamal72](https://github.com/mamal72)/[**gooz**](https://github.com/mamal72/gooz) | :dash: Send the old sh*tty browsers away from your website as simple as a Gooz | 
 6 | [@smoqadam](https://github.com/smoqadam)/[**url-to-qrcode-firefox-addon**](https://github.com/smoqadam/url-to-qrcode-firefox-addon) | an add-on to convert current url to qr code !! | 
@@ -59,12 +59,12 @@ If you want to contribute, note that you should only update `data.json`.
 <h3><a name="css"></a>CSS</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-3292 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
-621 | [@arashmanteghi](https://github.com/arashmanteghi)/[**simptip**](https://github.com/arashmanteghi/simptip) | A simple CSS tooltip made with Sass | [:arrow_upper_right:](http://arashm.net/lab/simptip/)
-598 | [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl) | RTL Theme for Bootstrap v3.x | 
+3304 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
+624 | [@arashmanteghi](https://github.com/arashmanteghi)/[**simptip**](https://github.com/arashmanteghi/simptip) | A simple CSS tooltip made with Sass | [:arrow_upper_right:](http://arashm.net/lab/simptip/)
+602 | [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl) | RTL Theme for Bootstrap v3.x | 
 380 | [@siamak](https://github.com/siamak)/[**licon**](https://github.com/siamak/licon) | Lightness and Useful icons with Pure CSS3 | [:arrow_upper_right:](http://siamak.github.io/licon)
-78 | [@siamak](https://github.com/siamak)/[**atom-panda-syntax**](https://github.com/siamak/atom-panda-syntax) | Panda syntax theme for Atom. | [:arrow_upper_right:](http://panda.siamak.work/)
-12 | [@z-avanes](https://github.com/z-avanes)/[**bootstrap-rtl**](https://github.com/z-avanes/bootstrap-rtl) | Bootstrap 3 RTL with SASS | [:arrow_upper_right:](http://htmlpreview.github.io/?https://github.com/z-avanes/bootstrap-rtl/blob/master/demo/demo.html)
+79 | [@siamak](https://github.com/siamak)/[**atom-panda-syntax**](https://github.com/siamak/atom-panda-syntax) | Panda syntax theme for Atom. | [:arrow_upper_right:](http://panda.siamak.work/)
+18 | [@z-avanes](https://github.com/z-avanes)/[**bootstrap3-rtl**](https://github.com/z-avanes/bootstrap3-rtl) | Bootstrap 3 RTL with SASS | [:arrow_upper_right:](http://htmlpreview.github.io/?https://github.com/z-avanes/bootstrap-rtl/blob/master/demo/demo.html)
 
 
 <h3><a name="boilerplates"></a>Boilerplates</h3>
@@ -79,7 +79,7 @@ If you want to contribute, note that you should only update `data.json`.
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 75 | [@smoqadam](https://github.com/smoqadam)/[**python-tips**](https://github.com/smoqadam/python-tips) | List of python tips | 
-65 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk**](https://github.com/smoqadam/PyFladesk) | create desktop application by using Flask and QtWebKit  | 
+66 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk**](https://github.com/smoqadam/PyFladesk) | create desktop application by using Flask and QtWebKit  | 
 31 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk-rss-reader**](https://github.com/smoqadam/PyFladesk-rss-reader) | simple rss reader by PyFladesk | 
 5 | [@mamal72](https://github.com/mamal72)/[**telegram-iranbot**](https://github.com/mamal72/telegram-iranbot) | :earth_americas: A dead simple Telegram bot for FA to FA, EN to FA translation | 
 5 | [@psamim](https://github.com/psamim)/[**aria2-telegram-bot**](https://github.com/psamim/aria2-telegram-bot) | Telegram bot to control an aria2 daemon | 
@@ -88,8 +88,8 @@ If you want to contribute, note that you should only update `data.json`.
 <h3><a name="php"></a>PHP</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-276 | [@sasanrose](https://github.com/sasanrose)/[**phpredmin**](https://github.com/sasanrose/phpredmin) | Yet another web interface for Redis | 
-25 | [@reshadman](https://github.com/reshadman)/[**laravel-mongo-auth**](https://github.com/reshadman/laravel-mongo-auth) | A native mongodb authentication driver for laravel. | 
+277 | [@sasanrose](https://github.com/sasanrose)/[**phpredmin**](https://github.com/sasanrose/phpredmin) | Yet another web interface for Redis | 
+26 | [@reshadman](https://github.com/reshadman)/[**laravel-mongo-auth**](https://github.com/reshadman/laravel-mongo-auth) | A native mongodb authentication driver for laravel. | 
 13 | [@laratalks](https://github.com/laratalks)/[**payment-gateways**](https://github.com/laratalks/payment-gateways) | Easy to use classes for  Payment Provider Services in Iran | 
 13 | [@QuincePHP](https://github.com/QuincePHP)/[**Pelastic**](https://github.com/QuincePHP/Pelastic) | An explicit abstraction layer on elasticsearch query DSL | [:arrow_upper_right:](http://pelastic.com)
 13 | [@smoqadam](https://github.com/smoqadam)/[**php-telegram-bot**](https://github.com/smoqadam/php-telegram-bot) | a wrapper class for telegram bot api | 
@@ -105,28 +105,32 @@ If you want to contribute, note that you should only update `data.json`.
 <h3><a name="go"></a>Go</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-45 | [@fzerorubigd](https://github.com/fzerorubigd)/[**onion**](https://github.com/fzerorubigd/onion) | Layer based configuration for #golang | 
+46 | [@fzerorubigd](https://github.com/fzerorubigd)/[**onion**](https://github.com/fzerorubigd/onion) | Layer based configuration for #golang | 
 44 | [@fzerorubigd](https://github.com/fzerorubigd)/[**tmass**](https://github.com/fzerorubigd/tmass) | tmux session manager written in golang | 
+7 | [@yaa110](https://github.com/yaa110)/[**go-persian-calendar**](https://github.com/yaa110/go-persian-calendar) | The implementation of the Persian (Solar Hijri) Calendar in Go (golang) | 
 1 | [@sijad](https://github.com/sijad)/[**srtfixer**](https://github.com/sijad/srtfixer) | Persian subtitle fixer in golang | 
 
 
 <h3><a name="android"></a>Android</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-407 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**FAB-Loading**](https://github.com/SaeedMasoumi/FAB-Loading) | A loading animation based on Floating Action Button | 
+410 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**FAB-Loading**](https://github.com/SaeedMasoumi/FAB-Loading) | A loading animation based on Floating Action Button | 
+340 | [@yaa110](https://github.com/yaa110)/[**Effects-Pro**](https://github.com/yaa110/Effects-Pro) | An easy-to-use Android application to apply filters to images | 
+172 | [@yaa110](https://github.com/yaa110)/[**Piclice**](https://github.com/yaa110/Piclice) | Android application to slice and share your pictures | 
 78 | [@alirezaafkar](https://github.com/alirezaafkar)/[**SunDatePicker**](https://github.com/alirezaafkar/SunDatePicker) | Date picker for Iranian calendar | 
-73 | [@navabi](https://github.com/navabi)/[**JustifiedTextView**](https://github.com/navabi/JustifiedTextView) | a custom view that simulate justified text for you | 
-53 | [@meNESS](https://github.com/meNESS)/[**EasyIntro**](https://github.com/meNESS/EasyIntro) | The flexible, easy to use, all in one app intro library for your Android project. | [:arrow_upper_right:](http://meness.github.io/EasyIntro)
-49 | [@alirezaafkar](https://github.com/alirezaafkar)/[**Toolbar**](https://github.com/alirezaafkar/Toolbar) | Android toolbar with layout direction support | 
+75 | [@navabi](https://github.com/navabi)/[**JustifiedTextView**](https://github.com/navabi/JustifiedTextView) | a custom view that simulate justified text for you | 
+54 | [@meNESS](https://github.com/meNESS)/[**EasyIntro**](https://github.com/meNESS/EasyIntro) | The flexible, easy to use, all in one app intro library for your Android project. | [:arrow_upper_right:](http://meness.github.io/EasyIntro)
+50 | [@alirezaafkar](https://github.com/alirezaafkar)/[**Toolbar**](https://github.com/alirezaafkar/Toolbar) | Android toolbar with layout direction support | 
 33 | [@soroushjavdan](https://github.com/soroushjavdan)/[**ApplicationLocker**](https://github.com/soroushjavdan/ApplicationLocker) | With this library you could send users to lock activity after they leave your application . | 
 18 | [@soroushjavdan](https://github.com/soroushjavdan)/[**Android-Mandrill-Interface**](https://github.com/soroushjavdan/Android-Mandrill-Interface) | An Android Mandrill API Connector | [:arrow_upper_right:](http://soroushjavdan.net/)
+14 | [@yaa110](https://github.com/yaa110)/[**RestorableSQLiteDatabase**](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper to replicate Android&#39;s SQLiteDatabase with restoring capability | 
 
 
 <h3><a name="erlang"></a>Erlang</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-19 | [@bisphone](https://github.com/bisphone)/[**Tnesia**](https://github.com/bisphone/Tnesia) | Time-series Data Storage | 
-13 | [@bisphone](https://github.com/bisphone)/[**Queuesk**](https://github.com/bisphone/Queuesk) | Priority Task Queue for Erlang | 
+20 | [@bisphone](https://github.com/bisphone)/[**Tnesia**](https://github.com/bisphone/Tnesia) | Time-series Data Storage | 
+14 | [@bisphone](https://github.com/bisphone)/[**Queuesk**](https://github.com/bisphone/Queuesk) | Priority Task Queue for Erlang | 
 6 | [@hamidreza-s](https://github.com/hamidreza-s)/[**Evedis**](https://github.com/hamidreza-s/Evedis) | Erlang binding for Vedis which is an embedded datastore C library | 
 
 
@@ -146,8 +150,8 @@ If you want to contribute, note that you should only update `data.json`.
 <h3><a name="c"></a>C</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-66 | [@aminroosta](https://github.com/aminroosta)/[**sqlite_modern_cpp**](https://github.com/aminroosta/sqlite_modern_cpp) | a c++11 wrapper around sqlite library | 
-26 | [@hamidreza-s](https://github.com/hamidreza-s)/[**NanoChat**](https://github.com/hamidreza-s/NanoChat) | A P2P, E2E encrypted and discoverable chat application on top of nanomsg library | 
+72 | [@aminroosta](https://github.com/aminroosta)/[**sqlite_modern_cpp**](https://github.com/aminroosta/sqlite_modern_cpp) | a c++11 wrapper around sqlite library | 
+29 | [@hamidreza-s](https://github.com/hamidreza-s)/[**NanoChat**](https://github.com/hamidreza-s/NanoChat) | A P2P, E2E encrypted and discoverable chat application on top of nanomsg library | 
 
 
 <h3><a name="c#"></a>C#</h3>
@@ -165,15 +169,15 @@ If you want to contribute, note that you should only update `data.json`.
 <h3><a name="font"></a>Font</h3>
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-209 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-font**](https://github.com/rastikerdar/vazir-font) | A Persian (Farsi) Font - قلم (فونت) فارسی وزیر | 
-110 | [@rastikerdar](https://github.com/rastikerdar)/[**samim-font**](https://github.com/rastikerdar/samim-font) | A Persian (Farsi) Font - فونت (قلم) فارسی صمیم | 
-49 | [@font-store](https://github.com/font-store)/[**font-behdad**](https://github.com/font-store/font-behdad) | Behdad is a Persian\Arabic Font - بهداد یک فونت فارسی/ عربی | 
+214 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-font**](https://github.com/rastikerdar/vazir-font) | A Persian (Farsi) Font - قلم (فونت) فارسی وزیر | 
+114 | [@rastikerdar](https://github.com/rastikerdar)/[**samim-font**](https://github.com/rastikerdar/samim-font) | A Persian (Farsi) Font - فونت (قلم) فارسی صمیم | 
+50 | [@font-store](https://github.com/font-store)/[**font-behdad**](https://github.com/font-store/font-behdad) | Behdad is a Persian\Arabic Font - بهداد یک فونت فارسی/ عربی | 
 48 | [@rastikerdar](https://github.com/rastikerdar)/[**tanha-font**](https://github.com/rastikerdar/tanha-font) | A Persian (Farsi) Font - فونت (قلم) فارسی تنها | 
 45 | [@rastikerdar](https://github.com/rastikerdar)/[**shabnam-font**](https://github.com/rastikerdar/shabnam-font) | A Persian (Farsi) Font - فونت (قلم) فارسی شبنم | 
 41 | [@rastikerdar](https://github.com/rastikerdar)/[**parastoo-font**](https://github.com/rastikerdar/parastoo-font) | A Persian (Farsi) Font - فونت (قلم) فارسی پرستو | 
-36 | [@BornaIz](https://github.com/BornaIz)/[**Lalezar**](https://github.com/BornaIz/Lalezar) | A multi-script display typeface for popular culture | 
-27 | [@font-store](https://github.com/font-store)/[**font-nika**](https://github.com/font-store/font-nika) | Nika-Persian Font | 
-24 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-code-font**](https://github.com/rastikerdar/vazir-code-font) | A Persian (farsi) Monospaced Font for coding - فونت (قلم) فارسی وزیرکد برای کد نویسی | 
+37 | [@BornaIz](https://github.com/BornaIz)/[**Lalezar**](https://github.com/BornaIz/Lalezar) | A multi-script display typeface for popular culture | 
+33 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-code-font**](https://github.com/rastikerdar/vazir-code-font) | A Persian (farsi) Monospaced Font for coding - فونت (قلم) فارسی وزیرکد برای کد نویسی | 
+28 | [@font-store](https://github.com/font-store)/[**font-nika**](https://github.com/font-store/font-nika) | Nika-Persian Font | 
 20 | [@rastikerdar](https://github.com/rastikerdar)/[**gandom-font**](https://github.com/rastikerdar/gandom-font) | A Persian (Farsi) Font - فونت (قلم) فارسی گندم | 
 15 | [@font-store](https://github.com/font-store)/[**font-farbod**](https://github.com/font-store/font-farbod) | Farbod is  Open Source Font For Text | 
 5 | [@font-store](https://github.com/font-store)/[**RitaFontTester**](https://github.com/font-store/RitaFontTester) | Auxiliary tool for the development of Persian-Arabic fonts | [:arrow_upper_right:](http://font-store.github.io/RitaFontTester)
