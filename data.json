@@ -82,7 +82,8 @@
       "repos": [
         "sijad/srtfixer",
         "fzerorubigd/tmass",
-        "fzerorubigd/onion"
+        "fzerorubigd/onion",
+        "yaa110/go-persian-calendar"
       ]
     },
     {
@@ -94,7 +95,10 @@
         "meNESS/EasyIntro",
         "navabi/JustifiedTextView",
         "soroushjavdan/ApplicationLocker",
-        "soroushjavdan/Android-Mandrill-Interface"
+        "soroushjavdan/Android-Mandrill-Interface",
+        "yaa110/Piclice",
+        "yaa110/Effects-Pro",
+        "yaa110/RestorableSQLiteDatabase"
       ]
     },
     {
