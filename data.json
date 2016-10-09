@@ -42,7 +42,8 @@
         "morteza/bootstrap-rtl",
         "z-avanes/bootstrap3-rtl"
       ]
-    }, {
+    },
+    {
       "category": "Boilerplates",
       "repos": [
         "siamak/FOWDConf94",
@@ -58,7 +59,8 @@
         "smoqadam/PyFladesk",
         "smoqadam/PyFladesk-rss-reader",
         "mamal72/telegram-iranbot",
-        "psamim/aria2-telegram-bot"
+        "psamim/aria2-telegram-bot",
+        "aaghamohammadi/jalaali-python"
       ]
     },
     {
