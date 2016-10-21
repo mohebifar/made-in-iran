@@ -29,7 +29,8 @@
         "mamal72/atom-isup",
         "smoqadam/add-to-feedly",
         "smoqadam/url-to-qrcode-firefox-addon",
-        "siamak/zarinpal-checkout"
+        "siamak/zarinpal-checkout",
+        "alirezaomidi/classic-snake-html5"
       ]
     },
     {
@@ -86,7 +87,10 @@
         "sijad/srtfixer",
         "fzerorubigd/tmass",
         "fzerorubigd/onion",
-        "yaa110/go-persian-calendar"
+        "yaa110/go-persian-calendar",
+        "fzerorubigd/zacman",
+        "ahmdrz/goinsta",
+        "goraz/humanize"        
       ]
     },
     {
