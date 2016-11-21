@@ -4,7 +4,7 @@
       "category": "JavaScript",
       "repos": [
         "mohebifar/grafgiti",
-        "mohebifar/lebab",
+        "lebab/lebab",
         "mohebifar/chemozart",
         "mohebifar/racket",
         "mohebifar/angular-persian",
@@ -61,7 +61,7 @@
         "smoqadam/PyFladesk-rss-reader",
         "mamal72/telegram-iranbot",
         "psamim/aria2-telegram-bot",
-        "aaghamohammadi/jalaali-python"
+        "jalaali/jalaali-python"
       ]
     },
     {
