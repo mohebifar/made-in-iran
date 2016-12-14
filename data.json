@@ -168,6 +168,12 @@
       ]
     },
     {
+      "category": "Boilerplate",
+      "repos": [
+        "HosseinKarami/fastshell"
+      ]
+    },
+    {
       "category": "Other",
       "repos": [
         "sijad/iran-cities",
