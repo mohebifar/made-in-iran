@@ -95,6 +95,12 @@
       ]
     },
     {
+      "category": "Rust",
+      "repos": [
+        "yaa110/rust-persian-calendar"       
+      ]
+    },
+    {
       "category": "Android",
       "repos": [
         "SaeedMasoumi/FAB-Loading",
