@@ -31,7 +31,8 @@
         "smoqadam/url-to-qrcode-firefox-addon",
         "siamak/zarinpal-checkout",
         "alirezaomidi/classic-snake-html5",
-        "Atbox/CodeChampion"
+        "Atbox/CodeChampion",
+        "webdesigniran/tinymce_charactercount"
       ]
     },
     {
@@ -42,7 +43,9 @@
         "siamak/atom-panda-syntax",
         "arashmanteghi/simptip",
         "morteza/bootstrap-rtl",
-        "z-avanes/bootstrap3-rtl"
+        "z-avanes/bootstrap3-rtl",
+        "webdesigniran/IranianBankLogos",
+        "webdesigniran/Mixins.Helper"
       ]
     },
     {
@@ -147,7 +150,8 @@
     {
       "category": "C#",
       "repos": [
-        "zumoshi/BrowserSelect"
+        "zumoshi/BrowserSelect",
+        "webdesigniran/PersianDataAnnotations"
       ]
     },
     {
