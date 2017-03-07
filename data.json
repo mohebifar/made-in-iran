@@ -113,7 +113,9 @@
         "soroushjavdan/Android-Mandrill-Interface",
         "yaa110/Piclice",
         "yaa110/Effects-Pro",
-        "yaa110/RestorableSQLiteDatabase"
+        "yaa110/RestorableSQLiteDatabase",
+        "ahmadnemati/WindView",
+        "ahmadnemati/ClickableWebView"
       ]
     },
     {
