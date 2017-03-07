@@ -114,7 +114,8 @@
         "yaa110/Piclice",
         "yaa110/Effects-Pro",
         "yaa110/RestorableSQLiteDatabase",
-        "ahmadnemati/WindView"
+        "ahmadnemati/WindView",
+        "ahmadnemati/ClickableWebView"
       ]
     },
     {
