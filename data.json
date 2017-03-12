@@ -97,7 +97,10 @@
         "yaa110/go-persian-calendar",
         "fzerorubigd/zacman",
         "ahmdrz/goinsta",
-        "goraz/humanize"
+        "goraz/humanize",
+        "mamal72/dgkala",
+        "mamal72/golyrics",
+        "mamal72/golyrics-telegram"
       ]
     },
     {
