@@ -76,6 +76,7 @@
         "smoqadam/php-telegram-bot",
         "smoqadam/php-telegram-cli",
         "Nevercom/php-ipg-ir"
+        "smmoosavi/php-gettext"
       ]
     },
     {

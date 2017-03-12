@@ -38,7 +38,8 @@ const repositories = data.curated
 
     return Promise
       .all(fetchReposPromise)
-      .then(result => {
+      .then(rawResult => {
+        const result = rawResult.filter(repo => repo.name && repo.owner)
         return {
           category: item.category,
           repos: result.sort((a, b) => a.stargazers_count < b.stargazers_count ? 1 : -1),
