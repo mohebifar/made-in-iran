@@ -74,8 +74,9 @@
         "reshadman/laravel-mongo-auth",
         "QuincePHP/Pelastic",
         "smoqadam/php-telegram-bot",
-        "smmoosavi/php-gettext",
-        "smoqadam/php-telegram-cli"
+        "smoqadam/php-telegram-cli",
+        "Nevercom/php-ipg-ir",
+        "smmoosavi/php-gettext"
       ]
     },
     {
@@ -93,13 +94,13 @@
         "yaa110/go-persian-calendar",
         "fzerorubigd/zacman",
         "ahmdrz/goinsta",
-        "goraz/humanize"        
+        "goraz/humanize"
       ]
     },
     {
       "category": "Rust",
       "repos": [
-        "yaa110/rust-persian-calendar"       
+        "yaa110/rust-persian-calendar"
       ]
     },
     {
