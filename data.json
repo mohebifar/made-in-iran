@@ -168,6 +168,12 @@
       ]
     },
     {
+      "category": "Swift",
+      "repos": [
+        "mamal72/lyricsify-mac"
+      ]
+    },
+    {
       "category": "Font",
       "repos": [
         "font-store/font-nika",
