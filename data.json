@@ -74,6 +74,7 @@
         "reshadman/laravel-mongo-auth",
         "QuincePHP/Pelastic",
         "smoqadam/php-telegram-bot",
+        "smmoosavi/php-gettext",
         "smoqadam/php-telegram-cli"
       ]
     },
