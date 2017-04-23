@@ -80,7 +80,8 @@
         "smoqadam/php-telegram-bot",
         "smoqadam/php-telegram-cli",
         "Nevercom/php-ipg-ir",
-        "smmoosavi/php-gettext"
+        "smmoosavi/php-gettext",
+        "forester-coder/Telegram"
       ]
     },
     {
