@@ -67,7 +67,8 @@
         "mamal72/telegram-iranbot",
         "psamim/aria2-telegram-bot",
         "jalaali/jalaali-python",
-        "sobhe/hazm"
+        "sobhe/hazm",
+        "forester-coder/FaceRecognition"
       ]
     },
     {
@@ -80,7 +81,8 @@
         "smoqadam/php-telegram-bot",
         "smoqadam/php-telegram-cli",
         "Nevercom/php-ipg-ir",
-        "smmoosavi/php-gettext"
+        "smmoosavi/php-gettext",
+        "forester-coder/Telegram"
       ]
     },
     {
