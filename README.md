@@ -243,6 +243,6 @@ If you want to contribute, note that you should only update `data.json`.
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 105 | [@arastu](https://github.com/arastu)/[**iran**](https://github.com/arastu/iran) | Administrative divisions of Iran in json and xml formats - تقسیمات کشوری ایران با فرمت جی‌سان و ایکس ام ال | 
-4 | [@sijad](https://github.com/sijad)/[**iran-cities**](https://github.com/sijad/iran-cities) | Iran cities in separated json files | 
+5 | [@sijad](https://github.com/sijad)/[**iran-cities**](https://github.com/sijad/iran-cities) | Iran cities in separated json files | 
 
 
