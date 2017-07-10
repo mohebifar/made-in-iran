@@ -30,13 +30,13 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-3812 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://lebab.io/)
+3813 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://lebab.io/)
 792 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
 454 | [@AriaMinaei](https://github.com/AriaMinaei)/[**TheatreJS**](https://github.com/AriaMinaei/TheatreJS) | A high-performance animation editor for the web. | 
 426 | [@AriaMinaei](https://github.com/AriaMinaei)/[**Griddify**](https://github.com/AriaMinaei/Griddify) | A tiny Photoshop panel to make guides and grids | [:arrow_upper_right:](http://gelobi.org/griddify)
 332 | [@mohebifar](https://github.com/mohebifar)/[**grafgiti**](https://github.com/mohebifar/grafgiti) | Vandalize your github contributions wall. | 
 283 | [@mohebifar](https://github.com/mohebifar)/[**racket**](https://github.com/mohebifar/racket) | A complete starting app for developing universal React/Redux web apps with generators, best practices and more | [:arrow_upper_right:](https://racket-demo.herokuapp.com/)
-244 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
+245 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
 207 | [@babakhani](https://github.com/babakhani)/[**pwt.datepicker**](https://github.com/babakhani/pwt.datepicker) | Javascript jalali calendar capable datepicker widget | [:arrow_upper_right:](http://babakhani.github.io/PersianWebToolkit/datepicker)
 142 | [@mohebifar](https://github.com/mohebifar)/[**react-native-loader**](https://github.com/mohebifar/react-native-loader) | A collection of animated spinners for React Native | 
 128 | [@mohebifar](https://github.com/mohebifar)/[**chemozart**](https://github.com/mohebifar/chemozart) | Web-based 3D molecule editor and visualizer with molecular mechanics calculators. | [:arrow_upper_right:](https://chemozart.com/)
@@ -46,20 +46,21 @@ If you want to contribute, note that you should only update `data.json`.
 90 | [@AriaMinaei](https://github.com/AriaMinaei)/[**RenderKid**](https://github.com/AriaMinaei/RenderKid) | Stylish console.log for node | 
 81 | [@evandhq](https://github.com/evandhq)/[**react-persian-datepicker**](https://github.com/evandhq/react-persian-datepicker) | A Persian date-picker component for react.js | [:arrow_upper_right:](https://evandhq.github.io/react-persian-datepicker/)
 65 | [@jalaali](https://github.com/jalaali)/[**jalaali-js**](https://github.com/jalaali/jalaali-js) | JavaScript functions for converting Jalaali and Gregorian calendar systems to each other | 
+46 | [@morajabi](https://github.com/morajabi)/[**styled-media-query**](https://github.com/morajabi/styled-media-query) | 💅💍  Better media queries for styled-component | 
 46 | [@mamal72](https://github.com/mamal72)/[**telegram-github-search-bot**](https://github.com/mamal72/telegram-github-search-bot) | :octocat: A Github search bot for Telegram | [:arrow_upper_right:](https://telegram.me/GithubSearchBot)
 35 | [@mamal72](https://github.com/mamal72)/[**persian-twitter**](https://github.com/mamal72/persian-twitter) | A WebExtension which improves Twitter &amp; TweetDeck user experience for Persian users | 
 23 | [@Atbox](https://github.com/Atbox)/[**CodeChampion**](https://github.com/Atbox/CodeChampion) | Plays epic sound clips when you write epic code on sublime Text! | [:arrow_upper_right:](https://packagecontrol.io/packages/Code%20Champion)
 22 | [@mamal72](https://github.com/mamal72)/[**react-github**](https://github.com/mamal72/react-github) | :octocat: A set of useful Github components for React | 
 19 | [@siamak](https://github.com/siamak)/[**zarinpal-checkout**](https://github.com/siamak/zarinpal-checkout) | ☼ Simple implementation of ZarinPal Node.js | [:arrow_upper_right:](http://zarinpal.com)
 16 | [@mamal72](https://github.com/mamal72)/[**rtl-md**](https://github.com/mamal72/rtl-md) | :pencil: A simple markdown to html converter which knows the direction! | 
-14 | [@mamal72](https://github.com/mamal72)/[**dgkala-web**](https://github.com/mamal72/dgkala-web) | A small &amp; simple interface for DGKala in React &amp; Redux | [:arrow_upper_right:](https://mamal72.github.io/dgkala-web)
 14 | [@mamal72](https://github.com/mamal72)/[**gooz**](https://github.com/mamal72/gooz) | :dash: Send the old sh*tty browsers away from your website as simple as a Gooz | 
+14 | [@mamal72](https://github.com/mamal72)/[**dgkala-web**](https://github.com/mamal72/dgkala-web) | A small &amp; simple interface for DGKala in React &amp; Redux | [:arrow_upper_right:](https://mamal72.github.io/dgkala-web)
 11 | [@mamal72](https://github.com/mamal72)/[**electron-jalali-calendar**](https://github.com/mamal72/electron-jalali-calendar) | :calendar: A simple menubar app for Jalali calendar built by Electron and React | 
-10 | [@smoqadam](https://github.com/smoqadam)/[**add-to-feedly**](https://github.com/smoqadam/add-to-feedly) | a firefox extension to add a website to feedly ;) | 
 10 | [@mdibaiee](https://github.com/mdibaiee)/[**Hawk**](https://github.com/mdibaiee/Hawk) | The missing Firefox OS file manager | [:arrow_upper_right:](https://marketplace.firefox.com/app/hawk/)
-8 | [@mamal72](https://github.com/mamal72)/[**axel-downloader**](https://github.com/mamal72/axel-downloader) | A node.js wrapper around axel downloader | 
-8 | [@smoqadam](https://github.com/smoqadam)/[**url-to-qrcode-firefox-addon**](https://github.com/smoqadam/url-to-qrcode-firefox-addon) | an add-on to convert current url to qr code !! | 
+10 | [@smoqadam](https://github.com/smoqadam)/[**add-to-feedly**](https://github.com/smoqadam/add-to-feedly) | a firefox extension to add a website to feedly ;) | 
 8 | [@ilxanlar](https://github.com/ilxanlar)/[**react-textarea-autoheight**](https://github.com/ilxanlar/react-textarea-autoheight) | An auto-height textarea component for React | 
+8 | [@smoqadam](https://github.com/smoqadam)/[**url-to-qrcode-firefox-addon**](https://github.com/smoqadam/url-to-qrcode-firefox-addon) | an add-on to convert current url to qr code !! | 
+8 | [@mamal72](https://github.com/mamal72)/[**axel-downloader**](https://github.com/mamal72/axel-downloader) | A node.js wrapper around axel downloader | 
 6 | [@mamal72](https://github.com/mamal72)/[**node-yahoo-weather**](https://github.com/mamal72/node-yahoo-weather) | :umbrella: A simple isomorphic yahoo weather API wrapper in 10 lines of code | 
 5 | [@mamal72](https://github.com/mamal72)/[**atom-isup**](https://github.com/mamal72/atom-isup) | :octocat: Simple Atom package to check website up or down status using isitup | 
 2 | [@alirezaomidi](https://github.com/alirezaomidi)/[**classic-snake-html5**](https://github.com/alirezaomidi/classic-snake-html5) | A Simple Classic Snake Game with HTML5 | [:arrow_upper_right:](http://alirezaomidi.github.io/classic-snake-html5/)
@@ -70,7 +71,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-3597 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
+3598 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
 754 | [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl) | RTL Theme for Bootstrap v3.x | 
 625 | [@arashmanteghi](https://github.com/arashmanteghi)/[**simptip**](https://github.com/arashmanteghi/simptip) | A simple CSS tooltip made with Sass | [:arrow_upper_right:](http://arashm.net/lab/simptip/)
 374 | [@siamak](https://github.com/siamak)/[**licon**](https://github.com/siamak/licon) | Lightness and Useful icons with Pure CSS3 | [:arrow_upper_right:](http://siamak.github.io/licon)
@@ -153,7 +154,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-486 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**FAB-Loading**](https://github.com/SaeedMasoumi/FAB-Loading) | A loading animation based on Floating Action Button | 
+487 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**FAB-Loading**](https://github.com/SaeedMasoumi/FAB-Loading) | A loading animation based on Floating Action Button | 
 386 | [@yaa110](https://github.com/yaa110)/[**Effects-Pro**](https://github.com/yaa110/Effects-Pro) | An easy-to-use Android application to apply filters to images | 
 178 | [@yaa110](https://github.com/yaa110)/[**Piclice**](https://github.com/yaa110/Piclice) | Android application to slice and share your pictures | 
 137 | [@AhmadNemati](https://github.com/AhmadNemati)/[**WindView**](https://github.com/AhmadNemati/WindView) | WindView is an Android Library to show Weather&#39;s Wind &amp; pressure Status | 
@@ -172,7 +173,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-13 | [@Pouriya-Jahanbakhsh](https://github.com/Pouriya-Jahanbakhsh)/[**director**](https://github.com/Pouriya-Jahanbakhsh/director) | Flexible, fast and powerful supervisor library for Erlang processes | [:arrow_upper_right:](http://docs.codefather.org/director)
+13 | [@Pouriya-Jahanbakhsh](https://github.com/Pouriya-Jahanbakhsh)/[**director**](https://github.com/Pouriya-Jahanbakhsh/director) | Flexible, fast and powerful supervisor library for Erlang/Elixir processes | [:arrow_upper_right:](http://docs.codefather.org/director)
 6 | [@hamidreza-s](https://github.com/hamidreza-s)/[**Evedis**](https://github.com/hamidreza-s/Evedis) | Erlang binding for Vedis which is an embedded datastore C library | 
 1 | [@bisphone](https://github.com/bisphone)/[**Queuesk**](https://github.com/bisphone/Queuesk) | Priority Task Queue for Erlang | 
 0 | [@bisphone](https://github.com/bisphone)/[**Tnesia**](https://github.com/bisphone/Tnesia) | Time-series Data Storage | 
