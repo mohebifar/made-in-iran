@@ -137,6 +137,8 @@
     {
       "category": "Erlang",
       "repos": [
+        "Pouriya-Jahanbakhsh/sockerl",
+        "Pouriya-Jahanbakhsh/lb",
         "bisphone/Tnesia",
         "bisphone/Queuesk",
         "Pouriya-Jahanbakhsh/director",
