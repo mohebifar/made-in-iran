@@ -202,7 +202,15 @@
         "rastikerdar/gandom-font",
         "rastikerdar/shabnam-font",
         "rastikerdar/vazir-code-font",
-        "BornaIz/Lalezar"
+        "BornaIz/Lalezar",
+        "font-store/NikaFont",
+        "font-store/BehdadFont",
+        "font-store/YaldaFont",
+        "font-store/GanjnamehFont",
+        "font-store/ShahabFont",
+        "font-store/FarbodFont",
+        "font-store/NoonFont",
+        "font-store/ArashFont"
       ]
     },
     {
