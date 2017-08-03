@@ -3,6 +3,8 @@
     {
       "category": "JavaScript",
       "repos": [
+        "AML-Project/tedjs",
+        "AML-Project/tedjs.aml.std",
         "mohebifar/grafgiti",
         "lebab/lebab",
         "mohebifar/chemozart",
