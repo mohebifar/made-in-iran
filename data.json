@@ -3,6 +3,9 @@
     {
       "category": "JavaScript",
       "repos": [
+        "AML-Project/tedjs",
+        "AML-Project/tedjs.aml.std",
+        "AML-Project/tedjs.aml.jsrun",
         "usablica/intro.js",
         "mohebifar/grafgiti",
         "lebab/lebab",
