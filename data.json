@@ -187,7 +187,8 @@
     {
       "category": "Swift",
       "repos": [
-        "mamal72/lyricsify-mac"
+        "mamal72/lyricsify-mac",
+        "amosavian/FileProvider"
       ]
     },
     {
