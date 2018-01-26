@@ -42,7 +42,10 @@
         "Atbox/CodeChampion",
         "babakhani/pwt.datepicker",
         "webdesigniran/tinymce_charactercount",
-        "mahmoudmy/naaab.ir"
+        "mahmoudmy/naaab.ir",
+        "ardalanamini/prototyped.js",
+        "ardalanamini/verifications",
+        "ardalanamini/named.css"
       ]
     },
     {
@@ -91,7 +94,8 @@
         "smoqadam/php-telegram-cli",
         "Nevercom/php-ipg-ir",
         "smmoosavi/php-gettext",
-        "forester-coder/Telegram"
+        "forester-coder/Telegram",
+        "ardalanamini/laravel-custom-relation"
       ]
     },
     {
