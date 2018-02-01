@@ -55,7 +55,8 @@
         "morteza/bootstrap-rtl",
         "z-avanes/bootstrap3-rtl",
         "webdesigniran/IranianBankLogos",
-        "webdesigniran/Mixins.Helper"
+        "webdesigniran/Mixins.Helper",
+        "JikanCSS" // Organization
       ]
     },
     {
