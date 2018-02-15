@@ -42,7 +42,9 @@
         "Atbox/CodeChampion",
         "babakhani/pwt.datepicker",
         "webdesigniran/tinymce_charactercount",
-        "mahmoudmy/naaab.ir"
+        "mahmoudmy/naaab.ir",
+        "alirezavalizade/react-redux-internet-connection",
+        "alirezavalizade/background-image-on-load"
       ]
     },
     {
