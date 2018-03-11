@@ -214,6 +214,8 @@ If you want to contribute, note that you should only update `data.json`.
 --- | --- | --- | ---
 32 | [@zumoshi](https://github.com/zumoshi)/[**BrowserSelect**](https://github.com/zumoshi/BrowserSelect) | Browser Select is a utility to dynamically select the browser you want instead of just having one default for all links. | 
 13 | [@webdesigniran](https://github.com/webdesigniran)/[**PersianDataAnnotations**](https://github.com/webdesigniran/PersianDataAnnotations) | PersianDataAnnotations is ASP.NET Core MVC &amp; ASP.NET MVC Custom Localization DataAnnotations (Localized MVC Errors) for Persian(Farsi) language - فارسی سازی خطاهای اعتبارسنجی توکار ام.وی.سی. و کور.ام.وی.سی. برای نمایش اعتبار سنجی سمت کلاینت | 
+2 | [@husseinhj](https://github.com/husseinhj)/[**NotificationCenter**](https://github.com/Husseinhj/NotificationCenter) | This library works like Objective-C and Swift NSNotificationCenter. A notification dispatch mechanism that enables the broadcast of information to registered observers. | 
+1 | [@husseinhj](https://github.com/husseinhj)/[**RateLimiting.NET**](https://github.com/Husseinhj/RateLimiting.NET) | Rate Limiting (debounce, throttle) for C# Portable Class Library. | 
 
 
 <h3><a name="lua"></a>Lua</h3>
