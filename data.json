@@ -177,7 +177,9 @@
       "category": "C#",
       "repos": [
         "zumoshi/BrowserSelect",
-        "webdesigniran/PersianDataAnnotations"
+        "webdesigniran/PersianDataAnnotations",
+        "husseinhj/NotificationCenter",
+        "husseinhj/RateLimiting.NET"
       ]
     },
     {
