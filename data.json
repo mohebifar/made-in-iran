@@ -78,6 +78,8 @@
         "psamim/aria2-telegram-bot",
         "jalaali/jalaali-python",
         "sobhe/hazm",
+        "ilius/pyglossary",
+        "ilius/starcal",
         "forester-coder/FaceRecognition"
       ]
     },
