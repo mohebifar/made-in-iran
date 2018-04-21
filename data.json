@@ -80,7 +80,11 @@
         "sobhe/hazm",
         "ilius/pyglossary",
         "ilius/starcal",
-        "forester-coder/FaceRecognition"
+        "forester-coder/FaceRecognition",
+        "sepandhaghighi/art",
+        "Moduland/Orangetool",
+        "sepandhaghighi/pycm",
+        "ECSIM/opem"
       ]
     },
     {
