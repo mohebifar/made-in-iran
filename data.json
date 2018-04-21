@@ -43,7 +43,8 @@
         "babakhani/pwt.datepicker",
         "webdesigniran/tinymce_charactercount",
         "thedevs-network/kutt",
-        "mahmoudmy/naaab.ir"
+        "mahmoudmy/naaab.ir",
+        "mostafa/react-native-fullscreen-video"
       ]
     },
     {
@@ -80,7 +81,10 @@
         "sobhe/hazm",
         "ilius/pyglossary",
         "ilius/starcal",
-        "forester-coder/FaceRecognition"
+        "forester-coder/FaceRecognition",
+        "mostafa/grest",
+        "mostafa/Good-Old-Kott",
+        "mostafa/simplru"
       ]
     },
     {
@@ -224,7 +228,9 @@
       "category": "Other",
       "repos": [
         "sijad/iran-cities",
-        "arastu/iran"
+        "arastu/iran",
+        "mostafa/gnulinux-book",
+        "mostafa/iptables_book"
       ]
     }
   ]
