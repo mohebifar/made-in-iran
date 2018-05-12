@@ -84,6 +84,14 @@
       ]
     },
     {
+      "category":"Java",
+      "repos": [
+        "behsa-oss/geev",
+        "behsa-oss/ganjex",
+        "mafiagameir/mafia-game"
+      ]
+    },
+    {
       "category": "PHP",
       "repos": [
         "laratalks/payment-gateways",
