@@ -6,9 +6,11 @@ install:
 script:
   - yarn run build
 after_success:
+  - yarn run build
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "Travis CI"
+  - git status
   - git add README.md
   - git commit -m "Automatic update of README.md"
   - git remote add origin-readme https://$GITHUB_AUTH_TOKEN@github.com/mohebifar/made-in-iran.git > /dev/null 2>&1
-  - git push --quiet --set-upstream origin-readme master
+  - git push origin-readme master
