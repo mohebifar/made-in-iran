@@ -11,5 +11,7 @@ after_success:
   - git config --global user.name "Travis CI"
   - git status
   - git add README.md
+  - git status
   - git commit -m "Automatic update of README.md"
+  - git status
   - git push --quiet https://$GITHUB_AUTH_TOKEN@github.com/mohebifar/made-in-iran master
