@@ -1,3 +1,5 @@
+git:
+  depth: false
 language: node_js
 node_js:
   - "8"
@@ -6,12 +8,4 @@ install:
 script:
   - yarn run build
 after_success:
-  - yarn run build
-  - git config --global user.email "travis@travis-ci.org"
-  - git config --global user.name "Travis CI"
-  - git status
-  - git add .
-  - git status
-  - git commit -m "Automatic update of README.md"
-  - git status
-  - git push --quiet https://$GITHUB_AUTH_TOKEN@github.com/mohebifar/made-in-iran master
+  - bash src/deploy.sh
