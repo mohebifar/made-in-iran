@@ -43,7 +43,8 @@
         "babakhani/pwt.datepicker",
         "webdesigniran/tinymce_charactercount",
         "thedevs-network/kutt",
-        "mahmoudmy/naaab.ir"
+        "mahmoudmy/naaab.ir",
+        "msudgh/icu-loader"
       ]
     },
     {
@@ -80,7 +81,9 @@
         "sobhe/hazm",
         "ilius/pyglossary",
         "ilius/starcal",
-        "forester-coder/FaceRecognition"
+        "forester-coder/FaceRecognition",
+        "msudgh/syncshell",
+        "msudgh/terminator-search"
       ]
     },
     {
