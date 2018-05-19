@@ -44,6 +44,7 @@
         "webdesigniran/tinymce_charactercount",
         "thedevs-network/kutt",
         "mahmoudmy/naaab.ir",
+        "mostafa/react-native-fullscreen-video",
         "msudgh/icu-loader"
       ]
     },
@@ -82,6 +83,9 @@
         "ilius/pyglossary",
         "ilius/starcal",
         "forester-coder/FaceRecognition",
+        "mostafa/grest",
+        "mostafa/Good-Old-Kott",
+        "mostafa/simplru",
         "msudgh/syncshell",
         "msudgh/terminator-search"
       ]
@@ -234,7 +238,9 @@
       "category": "Other",
       "repos": [
         "sijad/iran-cities",
-        "arastu/iran"
+        "arastu/iran",
+        "mostafa/gnulinux-book",
+        "mostafa/iptables_book"
       ]
     }
   ]
