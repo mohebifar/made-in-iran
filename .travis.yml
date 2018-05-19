@@ -1,0 +1,11 @@
+git:
+  depth: false
+language: node_js
+node_js:
+  - "8"
+install:
+  - yarn
+script:
+  - yarn run build
+after_success:
+  - bash src/deploy.sh

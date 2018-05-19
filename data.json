@@ -44,7 +44,8 @@
         "webdesigniran/tinymce_charactercount",
         "thedevs-network/kutt",
         "mahmoudmy/naaab.ir",
-        "mostafa/react-native-fullscreen-video"
+        "mostafa/react-native-fullscreen-video",
+        "msudgh/icu-loader"
       ]
     },
     {
@@ -84,7 +85,17 @@
         "forester-coder/FaceRecognition",
         "mostafa/grest",
         "mostafa/Good-Old-Kott",
-        "mostafa/simplru"
+        "mostafa/simplru",
+        "msudgh/syncshell",
+        "msudgh/terminator-search"
+      ]
+    },
+    {
+      "category":"Java",
+      "repos": [
+        "behsa-oss/geev",
+        "behsa-oss/ganjex",
+        "mafiagameir/mafia-game"
       ]
     },
     {
@@ -220,8 +231,7 @@
         "font-store/GanjnamehFont",
         "font-store/ShahabFont",
         "font-store/FarbodFont",
-        "font-store/NoonFont",
-        "font-store/ArashFont"
+        "font-store/NoonFont"
       ]
     },
     {
