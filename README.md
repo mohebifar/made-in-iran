@@ -31,10 +31,10 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-16983 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
+16990 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
 4398 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
 1434 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
-966 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
+967 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
 466 | [@AriaMinaei](https://github.com/AriaMinaei)/[**TheatreJS**](https://github.com/AriaMinaei/TheatreJS) | A high-performance animation editor for the web. | 
 446 | [@AriaMinaei](https://github.com/AriaMinaei)/[**Griddify**](https://github.com/AriaMinaei/Griddify) | A tiny Photoshop panel to make guides and grids | [:arrow_upper_right:](http://gelobi.org/griddify)
 408 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
@@ -48,7 +48,7 @@ If you want to contribute, note that you should only update `data.json`.
 128 | [@evandhq](https://github.com/evandhq)/[**react-persian-datepicker**](https://github.com/evandhq/react-persian-datepicker) | A Persian date-picker component for react.js | [:arrow_upper_right:](https://evandhq.github.io/react-persian-datepicker/)
 111 | [@AriaMinaei](https://github.com/AriaMinaei)/[**RenderKid**](https://github.com/AriaMinaei/RenderKid) | Stylish console.log for node | 
 110 | [@mdibaiee](https://github.com/mdibaiee)/[**node-telegram-api**](https://github.com/mdibaiee/node-telegram-api) | A simple API to create and control Telegram bots | 
-102 | [@jalaali](https://github.com/jalaali)/[**jalaali-js**](https://github.com/jalaali/jalaali-js) | JavaScript functions for converting Jalaali and Gregorian calendar systems to each other | 
+103 | [@jalaali](https://github.com/jalaali)/[**jalaali-js**](https://github.com/jalaali/jalaali-js) | JavaScript functions for converting Jalaali and Gregorian calendar systems to each other | 
 97 | [@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian) | :earth_asia: Persian tools for angular.js | 
 59 | [@mamal72](https://github.com/mamal72)/[**persian-twitter**](https://github.com/mamal72/persian-twitter) | A WebExtension which improves Twitter &amp; TweetDeck user experience for Persian users | 
 50 | [@mamal72](https://github.com/mamal72)/[**telegram-github-search-bot**](https://github.com/mamal72/telegram-github-search-bot) | :octocat: A Github search bot for Telegram | [:arrow_upper_right:](https://telegram.me/GithubSearchBot)
@@ -69,8 +69,8 @@ If you want to contribute, note that you should only update `data.json`.
 10 | [@smoqadam](https://github.com/smoqadam)/[**add-to-feedly**](https://github.com/smoqadam/add-to-feedly) | a firefox extension to add a website to feedly ;) | 
 9 | [@ilxanlar](https://github.com/ilxanlar)/[**react-textarea-autoheight**](https://github.com/ilxanlar/react-textarea-autoheight) | An auto-height textarea component for React | 
 8 | [@mamal72](https://github.com/mamal72)/[**axel-downloader**](https://github.com/mamal72/axel-downloader) | A node.js wrapper around axel downloader | 
+7 | [@mamal72](https://github.com/mamal72)/[**node-yahoo-weather**](https://github.com/mamal72/node-yahoo-weather) | :umbrella: A simple isomorphic yahoo weather API wrapper in 10 lines of code | 
 7 | [@mamal72](https://github.com/mamal72)/[**ice-cli**](https://github.com/mamal72/ice-cli) | Iranian Calendar Events CLI | 
-6 | [@mamal72](https://github.com/mamal72)/[**node-yahoo-weather**](https://github.com/mamal72/node-yahoo-weather) | :umbrella: A simple isomorphic yahoo weather API wrapper in 10 lines of code | 
 5 | [@mamal72](https://github.com/mamal72)/[**atom-isup**](https://github.com/mamal72/atom-isup) | :octocat: Simple Atom package to check website up or down status using isitup | 
 3 | [@alirezaomidi](https://github.com/alirezaomidi)/[**classic-snake-html5**](https://github.com/alirezaomidi/classic-snake-html5) | A Simple Classic Snake Game with HTML5 | [:arrow_upper_right:](http://alirezaomidi.github.io/classic-snake-html5/)
 1 | [@webdesigniran](https://github.com/webdesigniran)/[**tinymce_charactercount**](https://github.com/webdesigniran/tinymce_charactercount) | Character Count plugin for TinyMCE is a plugin adds character count functionality to TinyMCE. | 
@@ -268,7 +268,7 @@ If you want to contribute, note that you should only update `data.json`.
 76 | [@BornaIz](https://github.com/BornaIz)/[**Lalezar**](https://github.com/BornaIz/Lalezar) | A multi-script display typeface for popular culture | 
 67 | [@rastikerdar](https://github.com/rastikerdar)/[**tanha-font**](https://github.com/rastikerdar/tanha-font) | A Persian (Farsi) Font - فونت (قلم) فارسی تنها | 
 49 | [@font-store](https://github.com/font-store)/[**NikaFont**](https://github.com/font-store/NikaFont) | Nika: Persian/Arabic Open Source Font - Text and Print | نیکا: فونت فارسی/عربی با مجوز آزاد | [:arrow_upper_right:](http://libre.font-store.ir/NikaFont/)
-42 | [@rastikerdar](https://github.com/rastikerdar)/[**gandom-font**](https://github.com/rastikerdar/gandom-font) | A Persian (Farsi) Font - فونت (قلم) فارسی گندم | 
+43 | [@rastikerdar](https://github.com/rastikerdar)/[**gandom-font**](https://github.com/rastikerdar/gandom-font) | A Persian (Farsi) Font - فونت (قلم) فارسی گندم | 
 31 | [@font-store](https://github.com/font-store)/[**GanjnamehFont**](https://github.com/font-store/GanjnamehFont) | Ganjname: Persian/Arabic Open Source Font - گنجنامه: فونت فارسی  با مجوز آزاد | [:arrow_upper_right:](http://libre.font-store.ir/GanjnamehFont/)
 23 | [@font-store](https://github.com/font-store)/[**FarbodFont**](https://github.com/font-store/FarbodFont) | Farbod: Persian/Arabic Open Source Font - Text and Print | [:arrow_upper_right:](http://libre.font-store.ir/FarbodFont/)
 10 | [@font-store](https://github.com/font-store)/[**NoonFont**](https://github.com/font-store/NoonFont) | Noon: Persian/Arabic Open Source Font - For quarn| نون - فونتی مخصوص طبع و نشر قرآن با پشتیبانی فارسی | [:arrow_upper_right:](http://libre.font-store.ir/NoonFont/)
