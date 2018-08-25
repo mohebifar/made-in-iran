@@ -51,6 +51,8 @@
     {
       "category": "CSS",
       "repos": [
+        "MahdiMajidzadeh/bootstrap-v4-rtl",
+        "MahdiMajidzadeh/materialize-rtl",
         "saeedalipoor/icono",
         "siamak/licon",
         "siamak/atom-panda-syntax",
