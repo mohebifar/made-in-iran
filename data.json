@@ -119,7 +119,9 @@
         "Nevercom/php-ipg-ir",
         "smmoosavi/php-gettext",
         "forester-coder/Telegram",
-        "moeinrahimi/monolog-telegram"
+        "moeinrahimi/monolog-telegram",
+        "NabiKAZ/filimo-downloader",
+        "NabiKAZ/namava-downloader"
       ]
     },
     {
