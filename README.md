@@ -31,17 +31,17 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-17111 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
-4444 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
+17116 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
+4446 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
 1469 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
 1148 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
 468 | [@AriaMinaei](https://github.com/AriaMinaei)/[**TheatreJS**](https://github.com/AriaMinaei/TheatreJS) | A high-performance animation editor for the web. | 
 448 | [@AriaMinaei](https://github.com/AriaMinaei)/[**Griddify**](https://github.com/AriaMinaei/Griddify) | A tiny Photoshop panel to make guides and grids | [:arrow_upper_right:](http://gelobi.org/griddify)
-422 | [@morajabi](https://github.com/morajabi)/[**styled-media-query**](https://github.com/morajabi/styled-media-query) | 💅💍  Better media queries for styled-component | 
 422 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
+421 | [@morajabi](https://github.com/morajabi)/[**styled-media-query**](https://github.com/morajabi/styled-media-query) | 💅💍  Better media queries for styled-component | 
 385 | [@mohebifar](https://github.com/mohebifar)/[**grafgiti**](https://github.com/mohebifar/grafgiti) | Vandalize your github contributions wall. | 
-341 | [@babakhani](https://github.com/babakhani)/[**pwt.datepicker**](https://github.com/babakhani/pwt.datepicker) | Javascript jalali calendar capable datepicker widget | [:arrow_upper_right:](http://babakhani.github.io/PersianWebToolkit/datepicker)
-298 | [@mohebifar](https://github.com/mohebifar)/[**react-native-loader**](https://github.com/mohebifar/react-native-loader) | A collection of animated spinners for React Native | 
+342 | [@babakhani](https://github.com/babakhani)/[**pwt.datepicker**](https://github.com/babakhani/pwt.datepicker) | Javascript jalali calendar capable datepicker widget | [:arrow_upper_right:](http://babakhani.github.io/PersianWebToolkit/datepicker)
+299 | [@mohebifar](https://github.com/mohebifar)/[**react-native-loader**](https://github.com/mohebifar/react-native-loader) | A collection of animated spinners for React Native | 
 297 | [@mohebifar](https://github.com/mohebifar)/[**racket**](https://github.com/mohebifar/racket) | A complete starting app for developing universal React/Redux web apps with generators, best practices and more | [:arrow_upper_right:](https://racket-demo.herokuapp.com/)
 180 | [@usablica](https://github.com/usablica)/[**persian.js**](https://github.com/usablica/persian.js) | A simple library for Persian language localization. | [:arrow_upper_right:](http://usablica.github.com/persian.js/)
 142 | [@mohebifar](https://github.com/mohebifar)/[**chemozart**](https://github.com/mohebifar/chemozart) | Web-based 3D molecule editor and visualizer with molecular mechanics calculators. | [:arrow_upper_right:](https://chemozart.com/)
@@ -81,7 +81,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-3778 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
+3777 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
 889 | [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl) | RTL Theme for Bootstrap v3.x | 
 641 | [@arashmanteghi](https://github.com/arashmanteghi)/[**simptip**](https://github.com/arashmanteghi/simptip) | A simple CSS tooltip made with Sass | [:arrow_upper_right:](http://arashm.net/lab/simptip/)
 373 | [@siamak](https://github.com/siamak)/[**licon**](https://github.com/siamak/licon) | Lightness and Useful icons with Pure CSS3 | [:arrow_upper_right:](http://siamak.github.io/licon)
@@ -97,7 +97,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-57 | [@mortezakarimi](https://github.com/mortezakarimi)/[**gentelella-rtl**](https://github.com/mortezakarimi/gentelella-rtl) | Free RTL Bootstrap 3 Admin Template | [:arrow_upper_right:](https://mortezakarimi.github.io/gentelella-rtl/public/index.html)
+58 | [@mortezakarimi](https://github.com/mortezakarimi)/[**gentelella-rtl**](https://github.com/mortezakarimi/gentelella-rtl) | Free RTL Bootstrap 3 Admin Template | [:arrow_upper_right:](https://mortezakarimi.github.io/gentelella-rtl/public/index.html)
 24 | [@siamak](https://github.com/siamak)/[**FOWDConf94**](https://github.com/siamak/FOWDConf94) | Source code of FOWDConf94 [Static] | [:arrow_upper_right:](http://conf.wsschool.org/fowd/)
 11 | [@sallar](https://github.com/sallar)/[**rwd-conf-92**](https://github.com/sallar/rwd-conf-92) | Website for 1st Responsive Design Conference in Iran. | [:arrow_upper_right:](http://conf.wsschool.org/rwd/)
 7 | [@siamak](https://github.com/siamak)/[**webpack-react-babel-boilerplate**](https://github.com/siamak/webpack-react-babel-boilerplate) | A boilerplate for Webpack, React, Babel project with css-loader | [:arrow_upper_right:](http://react-boilerplate.siamak.work)
@@ -110,7 +110,7 @@ If you want to contribute, note that you should only update `data.json`.
 --- | --- | --- | ---
 644 | [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary) | A tool for converting dictionary files aka glossaries with various formats for different dictionary applications | 
 294 | [@sobhe](https://github.com/sobhe)/[**hazm**](https://github.com/sobhe/hazm) | Python library for digesting Persian text. | [:arrow_upper_right:](http://www.sobhe.ir/hazm)
-238 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk**](https://github.com/smoqadam/PyFladesk) | create desktop application by using Flask and QtWebKit  | 
+239 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk**](https://github.com/smoqadam/PyFladesk) | create desktop application by using Flask and QtWebKit  | 
 109 | [@smoqadam](https://github.com/smoqadam)/[**python-tips**](https://github.com/smoqadam/python-tips) | List of python tips | 
 104 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm) | Multi-class confusion matrix library in Python. | [:arrow_upper_right:](http://pycm.shaghighi.ir)
 74 | [@ilius](https://github.com/ilius)/[**starcal**](https://github.com/ilius/starcal) | StarCalendar Desktop: Brand New International Calendar | 
@@ -258,7 +258,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-336 | [@amosavian](https://github.com/amosavian)/[**FileProvider**](https://github.com/amosavian/FileProvider) | FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift | 
+338 | [@amosavian](https://github.com/amosavian)/[**FileProvider**](https://github.com/amosavian/FileProvider) | FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift | 
 61 | [@mamal72](https://github.com/mamal72)/[**lyricsify-mac**](https://github.com/mamal72/lyricsify-mac) | A simple Spotify lyrics viewer menu bar app for macOS in Swift 3 | 
 
 
