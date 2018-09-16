@@ -31,10 +31,10 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-17118 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
+17121 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
 4448 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6 (sugar-syntax). It does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
-1469 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
-1149 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
+1471 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
+1150 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
 468 | [@AriaMinaei](https://github.com/AriaMinaei)/[**TheatreJS**](https://github.com/AriaMinaei/TheatreJS) | A high-performance animation editor for the web. | 
 448 | [@AriaMinaei](https://github.com/AriaMinaei)/[**Griddify**](https://github.com/AriaMinaei/Griddify) | A tiny Photoshop panel to make guides and grids | [:arrow_upper_right:](http://gelobi.org/griddify)
 423 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
@@ -46,7 +46,7 @@ If you want to contribute, note that you should only update `data.json`.
 180 | [@usablica](https://github.com/usablica)/[**persian.js**](https://github.com/usablica/persian.js) | A simple library for Persian language localization. | [:arrow_upper_right:](http://usablica.github.com/persian.js/)
 142 | [@mohebifar](https://github.com/mohebifar)/[**chemozart**](https://github.com/mohebifar/chemozart) | Web-based 3D molecule editor and visualizer with molecular mechanics calculators. | [:arrow_upper_right:](https://chemozart.com/)
 129 | [@evandhq](https://github.com/evandhq)/[**react-persian-datepicker**](https://github.com/evandhq/react-persian-datepicker) | A Persian date-picker component for react.js | [:arrow_upper_right:](https://evandhq.github.io/react-persian-datepicker/)
-117 | [@AriaMinaei](https://github.com/AriaMinaei)/[**RenderKid**](https://github.com/AriaMinaei/RenderKid) | Stylish console.log for node | 
+118 | [@AriaMinaei](https://github.com/AriaMinaei)/[**RenderKid**](https://github.com/AriaMinaei/RenderKid) | Stylish console.log for node | 
 111 | [@mdibaiee](https://github.com/mdibaiee)/[**node-telegram-api**](https://github.com/mdibaiee/node-telegram-api) | A simple API to create and control Telegram bots | 
 108 | [@jalaali](https://github.com/jalaali)/[**jalaali-js**](https://github.com/jalaali/jalaali-js) | JavaScript functions for converting Jalaali and Gregorian calendar systems to each other | 
 98 | [@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian) | :earth_asia: Persian tools for angular.js | 
@@ -69,8 +69,8 @@ If you want to contribute, note that you should only update `data.json`.
 11 | [@mdibaiee](https://github.com/mdibaiee)/[**Hawk**](https://github.com/mdibaiee/Hawk) | The missing Firefox OS file manager | [:arrow_upper_right:](https://marketplace.firefox.com/app/hawk/)
 10 | [@smoqadam](https://github.com/smoqadam)/[**add-to-feedly**](https://github.com/smoqadam/add-to-feedly) | a firefox extension to add a website to feedly ;) | 
 9 | [@ilxanlar](https://github.com/ilxanlar)/[**react-textarea-autoheight**](https://github.com/ilxanlar/react-textarea-autoheight) | An auto-height textarea component for React | 
+9 | [@mamal72](https://github.com/mamal72)/[**node-yahoo-weather**](https://github.com/mamal72/node-yahoo-weather) | :umbrella: A simple isomorphic yahoo weather API wrapper in 10 lines of code | 
 8 | [@mamal72](https://github.com/mamal72)/[**axel-downloader**](https://github.com/mamal72/axel-downloader) | A node.js wrapper around axel downloader | 
-8 | [@mamal72](https://github.com/mamal72)/[**node-yahoo-weather**](https://github.com/mamal72/node-yahoo-weather) | :umbrella: A simple isomorphic yahoo weather API wrapper in 10 lines of code | 
 7 | [@mamal72](https://github.com/mamal72)/[**ice-cli**](https://github.com/mamal72/ice-cli) | Iranian Calendar Events CLI | 
 5 | [@mamal72](https://github.com/mamal72)/[**atom-isup**](https://github.com/mamal72/atom-isup) | :octocat: Simple Atom package to check website up or down status using isitup | 
 3 | [@alirezaomidi](https://github.com/alirezaomidi)/[**classic-snake-html5**](https://github.com/alirezaomidi/classic-snake-html5) | A Simple Classic Snake Game with HTML5 | [:arrow_upper_right:](http://alirezaomidi.github.io/classic-snake-html5/)
@@ -108,13 +108,13 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-644 | [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary) | A tool for converting dictionary files aka glossaries with various formats for different dictionary applications | 
+645 | [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary) | A tool for converting dictionary files aka glossaries with various formats for different dictionary applications | 
 294 | [@sobhe](https://github.com/sobhe)/[**hazm**](https://github.com/sobhe/hazm) | Python library for digesting Persian text. | [:arrow_upper_right:](http://www.sobhe.ir/hazm)
 239 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk**](https://github.com/smoqadam/PyFladesk) | create desktop application by using Flask and QtWebKit  | 
 109 | [@smoqadam](https://github.com/smoqadam)/[**python-tips**](https://github.com/smoqadam/python-tips) | List of python tips | 
 104 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm) | Multi-class confusion matrix library in Python. | [:arrow_upper_right:](http://pycm.shaghighi.ir)
 74 | [@ilius](https://github.com/ilius)/[**starcal**](https://github.com/ilius/starcal) | StarCalendar Desktop: Brand New International Calendar | 
-60 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art) | 🎨 ASCII Art Library For Python | [:arrow_upper_right:](http://art.shaghighi.ir)
+61 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art) | 🎨 ASCII Art Library For Python | [:arrow_upper_right:](http://art.shaghighi.ir)
 50 | [@Moduland](https://github.com/Moduland)/[**Orangetool**](https://github.com/Moduland/Orangetool) | 📚 Control Functions For Single-Board Computers | [:arrow_upper_right:](http://www.orangetool.ir)
 43 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk-rss-reader**](https://github.com/smoqadam/PyFladesk-rss-reader) | simple rss reader by PyFladesk | 
 43 | [@msudgh](https://github.com/msudgh)/[**syncshell**](https://github.com/msudgh/syncshell) | keep your machine&#39;s shell history synchronize | 
@@ -143,7 +143,7 @@ If you want to contribute, note that you should only update `data.json`.
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 348 | [@sasanrose](https://github.com/sasanrose)/[**phpredmin**](https://github.com/sasanrose/phpredmin) | Yet another web interface for Redis | 
-56 | [@NabiKAZ](https://github.com/NabiKAZ)/[**filimo-downloader**](https://github.com/NabiKAZ/filimo-downloader) | Download movies from filimo.com | 
+57 | [@NabiKAZ](https://github.com/NabiKAZ)/[**filimo-downloader**](https://github.com/NabiKAZ/filimo-downloader) | Download movies from filimo.com | 
 54 | [@moeinrahimi](https://github.com/moeinrahimi)/[**monolog-telegram**](https://github.com/moeinrahimi/monolog-telegram) |  :bell: Telegram Handler which allows you log messages to telegram channels using bots | 
 33 | [@NabiKAZ](https://github.com/NabiKAZ)/[**namava-downloader**](https://github.com/NabiKAZ/namava-downloader) | Download movies from `namava.ir` website. | 
 26 | [@reshadman](https://github.com/reshadman)/[**laravel-mongo-auth**](https://github.com/reshadman/laravel-mongo-auth) | A native mongodb authentication driver for laravel. | 
@@ -166,12 +166,12 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-238 | [@ahmdrz](https://github.com/ahmdrz)/[**goinsta**](https://github.com/ahmdrz/goinsta) | Unofficial Instagram API written in Golang | 
+239 | [@ahmdrz](https://github.com/ahmdrz)/[**goinsta**](https://github.com/ahmdrz/goinsta) | Unofficial Instagram API written in Golang | 
 62 | [@fzerorubigd](https://github.com/fzerorubigd)/[**tmass**](https://github.com/fzerorubigd/tmass) | tmux session manager written in golang | 
 53 | [@fzerorubigd](https://github.com/fzerorubigd)/[**onion**](https://github.com/fzerorubigd/onion) | Layer based configuration for golang | 
 37 | [@yaa110](https://github.com/yaa110)/[**go-persian-calendar**](https://github.com/yaa110/go-persian-calendar) | The implementation of the Persian (Solar Hijri) Calendar in Go (golang) | 
+27 | [@mamal72](https://github.com/mamal72)/[**golyrics**](https://github.com/mamal72/golyrics) | A simple Go package to fetch lyrics from Wikia | 
 26 | [@fzerorubigd](https://github.com/fzerorubigd)/[**zacman**](https://github.com/fzerorubigd/zacman) | zacman, a simple zsh package manager in go | 
-26 | [@mamal72](https://github.com/mamal72)/[**golyrics**](https://github.com/mamal72/golyrics) | A simple Go package to fetch lyrics from Wikia | 
 9 | [@mamal72](https://github.com/mamal72)/[**dgkala**](https://github.com/mamal72/dgkala) | A simple Go package to interact with Digikala website | 
 8 | [@goraz](https://github.com/goraz)/[**humanize**](https://github.com/goraz/humanize) | DEPRICATED : A simple human friendly :) ast representation for go, new version at https://github.com/fzerorubigd/humanize | 
 7 | [@mamal72](https://github.com/mamal72)/[**golyrics-telegram**](https://github.com/mamal72/golyrics-telegram) | A simple Telegram lyrics bot | 
@@ -258,7 +258,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-339 | [@amosavian](https://github.com/amosavian)/[**FileProvider**](https://github.com/amosavian/FileProvider) | FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift | 
+340 | [@amosavian](https://github.com/amosavian)/[**FileProvider**](https://github.com/amosavian/FileProvider) | FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift | 
 61 | [@mamal72](https://github.com/mamal72)/[**lyricsify-mac**](https://github.com/mamal72/lyricsify-mac) | A simple Spotify lyrics viewer menu bar app for macOS in Swift 3 | 
 
 
@@ -266,9 +266,9 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-488 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-font**](https://github.com/rastikerdar/vazir-font) | A Persian (Farsi) Font - قلم (فونت) فارسی وزیر | 
+489 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-font**](https://github.com/rastikerdar/vazir-font) | A Persian (Farsi) Font - قلم (فونت) فارسی وزیر | 
 203 | [@rastikerdar](https://github.com/rastikerdar)/[**samim-font**](https://github.com/rastikerdar/samim-font) | A Persian (Farsi) Font - فونت (قلم) فارسی صمیم | 
-122 | [@rastikerdar](https://github.com/rastikerdar)/[**shabnam-font**](https://github.com/rastikerdar/shabnam-font) | A Persian (Farsi) Font - فونت (قلم) فارسی شبنم | 
+123 | [@rastikerdar](https://github.com/rastikerdar)/[**shabnam-font**](https://github.com/rastikerdar/shabnam-font) | A Persian (Farsi) Font - فونت (قلم) فارسی شبنم | 
 105 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-code-font**](https://github.com/rastikerdar/vazir-code-font) | A Persian (farsi) Monospaced Font for coding - فونت (قلم) فارسی وزیرکد برای کد نویسی | 
 101 | [@font-store](https://github.com/font-store)/[**BehdadFont**](https://github.com/font-store/BehdadFont) | Farbod: Persian/Arabic Open Source Font - بهداد: فونت فارسی  با مجوز آزاد | [:arrow_upper_right:](http://libre.font-store.ir/BehdadFont/)
 83 | [@rastikerdar](https://github.com/rastikerdar)/[**parastoo-font**](https://github.com/rastikerdar/parastoo-font) | A Persian (Farsi) Font - فونت (قلم) فارسی پرستو | 
