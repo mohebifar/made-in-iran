@@ -246,6 +246,13 @@
       ]
     },
     {
+      "category": "Shell",
+      "repos": [
+        "alireza-amirsamimi/pdmt",
+        "alireza-amirsamimi/fingil"
+      ]
+    },
+    {
       "category": "Other",
       "repos": [
         "sijad/iran-cities",
