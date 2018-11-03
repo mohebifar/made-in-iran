@@ -3,6 +3,7 @@
     {
       "category": "JavaScript",
       "repos": [
+        "usablica/intro.js",
         "mohebifar/grafgiti",
         "lebab/lebab",
         "mohebifar/chemozart",
@@ -30,23 +31,37 @@
         "mamal72/persian-twitter",
         "mamal72/dgkala-web",
         "mamal72/axel-downloader",
+        "mamal72/iranian-calendar-events",
+        "mamal72/ice-cli",
+        "mamal72/open-in-code",
+        "morajabi/styled-media-query",
         "smoqadam/add-to-feedly",
         "smoqadam/url-to-qrcode-firefox-addon",
         "siamak/zarinpal-checkout",
         "alirezaomidi/classic-snake-html5",
         "Atbox/CodeChampion",
-        "babakhani/pwt.datepicker"
+        "babakhani/pwt.datepicker",
+        "webdesigniran/tinymce_charactercount",
+        "thedevs-network/kutt",
+        "mahmoudmy/naaab.ir",
+        "mostafa/react-native-fullscreen-video",
+        "msudgh/icu-loader",
+        "ali-master/persian-tools"
       ]
     },
     {
       "category": "CSS",
       "repos": [
+        "MahdiMajidzadeh/bootstrap-v4-rtl",
+        "MahdiMajidzadeh/materialize-rtl",
         "saeedalipoor/icono",
         "siamak/licon",
         "siamak/atom-panda-syntax",
         "arashmanteghi/simptip",
         "morteza/bootstrap-rtl",
-        "z-avanes/bootstrap3-rtl"
+        "z-avanes/bootstrap3-rtl",
+        "webdesigniran/IranianBankLogos",
+        "webdesigniran/Mixins.Helper"
       ]
     },
     {
@@ -55,7 +70,8 @@
         "siamak/FOWDConf94",
         "sallar/rwd-conf-92",
         "siamak/webpack-react-babel-boilerplate",
-        "hesmaili/tehranjs-proposal"
+        "hesmaili/tehranjs-proposal",
+        "mortezakarimi/gentelella-rtl"
       ]
     },
     {
@@ -64,10 +80,31 @@
         "smoqadam/python-tips",
         "smoqadam/PyFladesk",
         "smoqadam/PyFladesk-rss-reader",
+        "sspipe/sspipe",
         "mamal72/telegram-iranbot",
         "psamim/aria2-telegram-bot",
         "jalaali/jalaali-python",
-        "sobhe/hazm"
+        "sobhe/hazm",
+        "ilius/pyglossary",
+        "ilius/starcal",
+        "forester-coder/FaceRecognition",
+        "sepandhaghighi/art",
+        "Moduland/Orangetool",
+        "sepandhaghighi/pycm",
+        "ECSIM/opem",
+        "mostafa/grest",
+        "mostafa/Good-Old-Kott",
+        "mostafa/simplru",
+        "msudgh/syncshell",
+        "msudgh/terminator-search"
+      ]
+    },
+    {
+      "category":"Java",
+      "repos": [
+        "behsa-oss/geev",
+        "behsa-oss/ganjex",
+        "mafiagameir/mafia-game"
       ]
     },
     {
@@ -80,7 +117,11 @@
         "smoqadam/php-telegram-bot",
         "smoqadam/php-telegram-cli",
         "Nevercom/php-ipg-ir",
-        "smmoosavi/php-gettext"
+        "smmoosavi/php-gettext",
+        "forester-coder/Telegram",
+        "moeinrahimi/monolog-telegram",
+        "NabiKAZ/filimo-downloader",
+        "NabiKAZ/namava-downloader"
       ]
     },
     {
@@ -131,8 +172,11 @@
     {
       "category": "Erlang",
       "repos": [
+        "Pouriya-Jahanbakhsh/sockerl",
+        "Pouriya-Jahanbakhsh/lb",
         "bisphone/Tnesia",
         "bisphone/Queuesk",
+        "Pouriya-Jahanbakhsh/director",
         "hamidreza-s/Evedis"
       ]
     },
@@ -160,7 +204,8 @@
     {
       "category": "C#",
       "repos": [
-        "zumoshi/BrowserSelect"
+        "zumoshi/BrowserSelect",
+        "webdesigniran/PersianDataAnnotations"
       ]
     },
     {
@@ -172,7 +217,8 @@
     {
       "category": "Swift",
       "repos": [
-        "mamal72/lyricsify-mac"
+        "mamal72/lyricsify-mac",
+        "amosavian/FileProvider"
       ]
     },
     {
@@ -189,14 +235,23 @@
         "rastikerdar/gandom-font",
         "rastikerdar/shabnam-font",
         "rastikerdar/vazir-code-font",
-        "BornaIz/Lalezar"
+        "BornaIz/Lalezar",
+        "font-store/NikaFont",
+        "font-store/BehdadFont",
+        "font-store/YaldaFont",
+        "font-store/GanjnamehFont",
+        "font-store/ShahabFont",
+        "font-store/FarbodFont",
+        "font-store/NoonFont"
       ]
     },
     {
       "category": "Other",
       "repos": [
         "sijad/iran-cities",
-        "arastu/iran"
+        "arastu/iran",
+        "mostafa/gnulinux-book",
+        "mostafa/iptables_book"
       ]
     }
   ]
