@@ -121,7 +121,8 @@
         "forester-coder/Telegram",
         "moeinrahimi/monolog-telegram",
         "NabiKAZ/filimo-downloader",
-        "NabiKAZ/namava-downloader"
+        "NabiKAZ/namava-downloader",
+        "mastani/laravel-google-static-map"
       ]
     },
     {
