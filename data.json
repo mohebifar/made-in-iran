@@ -103,6 +103,7 @@
     {
       "category":"Java",
       "repos": [
+        "alimate/errors-spring-boot-starter",
         "behsa-oss/geev",
         "behsa-oss/ganjex",
         "mafiagameir/mafia-game"

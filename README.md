@@ -133,6 +133,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+27 | [@alimate](https://github.com/alimate)/[**errors-spring-boot-starter**](https://github.com/alimate/errors-spring-boot-starter) | Elegant Error Handling for Spring Boot
 10 | [@behsa-oss](https://github.com/behsa-oss)/[**ganjex**](https://github.com/behsa-oss/ganjex) | Passive Container With Runtime Lifecycle Management | 
 8 | [@behsa-oss](https://github.com/behsa-oss)/[**geev**](https://github.com/behsa-oss/geev) | Very simple and lightweight Role-Based Node Discovery Library | 
 3 | [@mafiagameir](https://github.com/mafiagameir)/[**mafia-game**](https://github.com/mafiagameir/mafia-game) | Mafia Game engine, Telegram bot and website | [:arrow_upper_right:](https://mafiagame.ir)
