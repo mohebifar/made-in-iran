@@ -74,6 +74,7 @@ If you want to contribute, note that you should only update `data.json`.
 7 | [@mamal72](https://github.com/mamal72)/[**ice-cli**](https://github.com/mamal72/ice-cli) | Iranian Calendar Events CLI | 
 5 | [@mamal72](https://github.com/mamal72)/[**atom-isup**](https://github.com/mamal72/atom-isup) | :octocat: Simple Atom package to check website up or down status using isitup | 
 3 | [@alirezaomidi](https://github.com/alirezaomidi)/[**classic-snake-html5**](https://github.com/alirezaomidi/classic-snake-html5) | A Simple Classic Snake Game with HTML5 | [:arrow_upper_right:](http://alirezaomidi.github.io/classic-snake-html5/)
+3 | [@omidnikrah](https://github.com/omidnikrah)/[**football-live-score-extension**](https://github.com/omidnikrah/football-live-score-extension) | ⚽️A Chrome extension to display football live score. |
 1 | [@webdesigniran](https://github.com/webdesigniran)/[**tinymce_charactercount**](https://github.com/webdesigniran/tinymce_charactercount) | Character Count plugin for TinyMCE is a plugin adds character count functionality to TinyMCE. | 
 
 
