@@ -168,7 +168,10 @@
         "yaa110/RestorableSQLiteDatabase",
         "ahmadnemati/WindView",
         "ahmadnemati/ClickableWebView",
-        "saeedsh92/Banner-Slider"
+        "saeedsh92/Banner-Slider",
+        "MostafaNasiri/RtlNavigationView",
+        "MostafaNasiri/AndroidFileChooser",
+        "MostafaNasiri/CircularPulsingButton"
       ]
     },
     {
