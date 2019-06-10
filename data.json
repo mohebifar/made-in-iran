@@ -97,7 +97,8 @@
         "mostafa/simplru",
         "msudgh/syncshell",
         "msudgh/terminator-search",
-        "univa64/kutt-cli"
+        "univa64/kutt-cli",
+        "mhajiloo/persiantools"
       ]
     },
     {
