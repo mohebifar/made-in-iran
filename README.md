@@ -22,6 +22,7 @@ If you want to contribute, note that you should only update `data.json`.
  - [C#](#c#)
  - [Lua](#lua)
  - [Swift](#swift)
+ - [Flutter](#flutter)
  - [Font](#font)
  - [Other](#other)
 
@@ -196,7 +197,9 @@ If you want to contribute, note that you should only update `data.json`.
 174 | [@yaa110](https://github.com/yaa110)/[**Piclice**](https://github.com/yaa110/Piclice) | Android application to slice and share your pictures | 
 159 | [@alirezaafkar](https://github.com/alirezaafkar)/[**SunDatePicker**](https://github.com/alirezaafkar/SunDatePicker) | Date picker for Iranian calendar | 
 121 | [@navabi](https://github.com/navabi)/[**JustifiedTextView**](https://github.com/navabi/JustifiedTextView) | a custom view that simulate justified text for you | 
+90 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**StepBarView**](https://github.com/imaNNeoFighT/StepBarView) | Step Bar View (make your own customized StepBar) | 
 86 | [@alirezaafkar](https://github.com/alirezaafkar)/[**Toolbar**](https://github.com/alirezaafkar/Toolbar) | Android toolbar with layout direction support | 
+84 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**ArcChartView**](https://github.com/imaNNeoFighT/ArcChartView) | Arc Chart View (Draw Creative Statistic Arc Charts) | 
 80 | [@meness](https://github.com/meness)/[**EasyIntro**](https://github.com/meness/EasyIntro) | The flexible, easy to use, all in one app intro library for your Android project. | [:arrow_upper_right:](http://meness.github.io/EasyIntro)
 48 | [@soroushjavdan](https://github.com/soroushjavdan)/[**ApplicationLocker**](https://github.com/soroushjavdan/ApplicationLocker) | With this library you could send users to lock activity after they leave your application . | 
 32 | [@AhmadNemati](https://github.com/AhmadNemati)/[**ClickableWebView**](https://github.com/AhmadNemati/ClickableWebView) | Simple WebView to Detect click on an image | 
@@ -260,6 +263,13 @@ If you want to contribute, note that you should only update `data.json`.
 --- | --- | --- | ---
 342 | [@amosavian](https://github.com/amosavian)/[**FileProvider**](https://github.com/amosavian/FileProvider) | FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift | 
 61 | [@mamal72](https://github.com/mamal72)/[**lyricsify-mac**](https://github.com/mamal72/lyricsify-mac) | A simple Spotify lyrics viewer menu bar app for macOS in Swift 3 | 
+
+<h3><a name="flutter"></a>Flutter</h3>
+
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+474 | [@imaNNeoFight](https://github.com/imaNNeoFighT)/[**FlChart**](https://github.com/imaNNeoFighT/fl_chart) | A powerful Flutter chart library, currently supporting Line Chart, Bar Chart and Pie Chart. |
+184 | [@imaNNeoFight](https://github.com/imaNNeoFighT)/[**FlChart**](https://github.com/imaNNeoFighT/circular_bottom_navigation) | Circular Bottom Navigation (or maybe a tab bar).|
 
 
 <h3><a name="font"></a>Font</h3>
