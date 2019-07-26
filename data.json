@@ -46,7 +46,8 @@
         "mahmoudmy/naaab.ir",
         "mostafa/react-native-fullscreen-video",
         "msudgh/icu-loader",
-        "ali-master/persian-tools"
+        "ali-master/persian-tools",
+        "nekofar/gulp-fontiran"
       ]
     },
     {
@@ -123,7 +124,9 @@
         "moeinrahimi/monolog-telegram",
         "NabiKAZ/filimo-downloader",
         "NabiKAZ/namava-downloader",
-        "mastani/laravel-google-static-map"
+        "mastani/laravel-google-static-map",
+        "nekofar/virgool",
+        "nekofar/nobitex-api-php"
       ]
     },
     {
