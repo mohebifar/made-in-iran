@@ -113,6 +113,10 @@
     {
       "category": "PHP",
       "repos": [
+        "imanghafoori1/laravel-heyman",
+        "imanghafoori1/laravel-widgetize",
+        "imanghafoori1/laravel-masterpass",
+        "imanghafoori1/laravel-terminator",
         "laratalks/payment-gateways",
         "sasanrose/phpredmin",
         "reshadman/laravel-mongo-auth",
