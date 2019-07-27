@@ -111,6 +111,12 @@
       ]
     },
     {
+      "category": "Kotlin",
+      "repos": [
+        "TheSNAKY/WatchTower"
+      ]
+    },
+    {
       "category": "PHP",
       "repos": [
         "imanghafoori1/laravel-heyman",
@@ -177,6 +183,7 @@
         "ahmadnemati/WindView",
         "ahmadnemati/ClickableWebView",
         "saeedsh92/Banner-Slider",
+        "TheSNAKY/Lives",
         "mreram/ShowCaseView",
         "mreram/TicketView",
         "MostafaNasiri/RtlNavigationView",
