@@ -202,6 +202,7 @@ If you want to contribute, note that you should only update `data.json`.
 32 | [@AhmadNemati](https://github.com/AhmadNemati)/[**ClickableWebView**](https://github.com/AhmadNemati/ClickableWebView) | Simple WebView to Detect click on an image | 
 20 | [@soroushjavdan](https://github.com/soroushjavdan)/[**Android-Mandrill-Interface**](https://github.com/soroushjavdan/Android-Mandrill-Interface) | An Android Mandrill API Connector | [:arrow_upper_right:](http://soroushjavdan.net/)
 16 | [@yaa110](https://github.com/yaa110)/[**RestorableSQLiteDatabase**](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper around Android&#39;s SQLiteDatabase with restoring capability | 
+343 | [@ebraminio](https://github.com/ebraminio)/[**Android Persian Calendar**](https://github.com/ebraminio/DroidPersianCalendar) | Free and open-source Persian Calendar with Compass/Qibla and Athan, and Dari, Kurdish, Pashto, Arabic, Gilaki and English support. Supports Gregorian and Islamic calendars support also. | 
 
 
 <h3><a name="erlang"></a>Erlang</h3>
