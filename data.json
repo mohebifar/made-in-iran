@@ -109,6 +109,12 @@
       ]
     },
     {
+      "category":"Kotlin",
+      "repos": [
+        "TheSNAKY/WatchTower"
+      ]
+    },
+    {
       "category": "PHP",
       "repos": [
         "laratalks/payment-gateways",
@@ -168,7 +174,8 @@
         "yaa110/RestorableSQLiteDatabase",
         "ahmadnemati/WindView",
         "ahmadnemati/ClickableWebView",
-        "saeedsh92/Banner-Slider"
+        "saeedsh92/Banner-Slider",
+        "TheSNAKY/Lives"
       ]
     },
     {
