@@ -188,7 +188,8 @@
         "mreram/TicketView",
         "MostafaNasiri/RtlNavigationView",
         "MostafaNasiri/AndroidFileChooser",
-        "MostafaNasiri/CircularPulsingButton"
+        "MostafaNasiri/CircularPulsingButton",
+        "ebraminio/DroidPersianCalendar"
       ]
     },
     {
