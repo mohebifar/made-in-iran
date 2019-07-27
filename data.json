@@ -213,7 +213,8 @@
       "anchor": "cpp",
       "repos": [
         "mohebifar/openbabel-node",
-        "keyvank/tracy"
+        "keyvank/tracy",
+        "harfbuzz/"
       ]
     },
     {
