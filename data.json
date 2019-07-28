@@ -137,7 +137,9 @@
         "moeinrahimi/monolog-telegram",
         "NabiKAZ/filimo-downloader",
         "NabiKAZ/namava-downloader",
-        "mastani/laravel-google-static-map"
+        "mastani/laravel-google-static-map",
+        "miladrahimi/phprouter",
+        "miladrahimi/php-jwt"
       ]
     },
     {
