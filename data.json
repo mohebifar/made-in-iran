@@ -135,7 +135,10 @@
         "moeinrahimi/monolog-telegram",
         "NabiKAZ/filimo-downloader",
         "NabiKAZ/namava-downloader",
-        "mastani/laravel-google-static-map"
+        "mastani/laravel-google-static-map",
+        "novid/php-the-right-way",
+        "novid/phpthewrongway",
+        "novid/drupal-console-book"
       ]
     },
     {
