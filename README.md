@@ -203,6 +203,7 @@ If you want to contribute, note that you should only update `data.json`.
 20 | [@soroushjavdan](https://github.com/soroushjavdan)/[**Android-Mandrill-Interface**](https://github.com/soroushjavdan/Android-Mandrill-Interface) | An Android Mandrill API Connector | [:arrow_upper_right:](http://soroushjavdan.net/)
 16 | [@yaa110](https://github.com/yaa110)/[**RestorableSQLiteDatabase**](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper around Android&#39;s SQLiteDatabase with restoring capability |
 30 | [@2hamed](https://github.com/2hamed)/[**ProgressCircula**](https://github.com/2hamed/ProgressCircula) | ProgressCircula is a lightweight customisable circular ProgressBar view for Android. |
+23 | [@2hamed](https://github.com/2hamed)/[**VerticalSlider**](https://github.com/2hamed/VerticalSlider) | Android library mimicing the iOS's volume and light vertical sliders. |
 
 
 <h3><a name="erlang"></a>Erlang</h3>
