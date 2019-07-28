@@ -153,7 +153,8 @@ If you want to contribute, note that you should only update `data.json`.
 18 | [@QuincePHP](https://github.com/QuincePHP)/[**Pelastic**](https://github.com/QuincePHP/Pelastic) | An explicit abstraction layer on elasticsearch query DSL | [:arrow_upper_right:](http://pelastic.com)
 15 | [@smoqadam](https://github.com/smoqadam)/[**php-telegram-cli**](https://github.com/smoqadam/php-telegram-cli) | php wrapper for telegram cli | 
 11 | [@smmoosavi](https://github.com/smmoosavi)/[**php-gettext**](https://github.com/smmoosavi/php-gettext) | Wrapper for php-gettext by danilo segan. This library provides PHP functions to read MO files even when gettext is not compiled in or when appropriate locale is not present on the system. | 
-
+12 | [@ako](https://github.com/akoSalman)/[**Shorturl**](https://github.com/akoSalman/Shorturl) | PHP/Laravel Url shortner. | 
+13 | [@ako](https://github.com/akoSalman)/[**payment**](https://github.com/akoSalman/payment) | Connect to Iran payment gateways through PHP(laravel)| 
 
 <h3><a name="ruby"></a>Ruby</h3>
 
