@@ -176,7 +176,7 @@ If you want to contribute, note that you should only update `data.json`.
 8 | [@goraz](https://github.com/goraz)/[**humanize**](https://github.com/goraz/humanize) | DEPRICATED : A simple human friendly :) ast representation for go, new version at https://github.com/fzerorubigd/humanize | 
 7 | [@mamal72](https://github.com/mamal72)/[**golyrics-telegram**](https://github.com/mamal72/golyrics-telegram) | A simple Telegram lyrics bot | 
 5 | [@sijad](https://github.com/sijad)/[**srtfixer**](https://github.com/sijad/srtfixer) | Persian subtitle fixer in golang | 
-
+2 | [@2hamed](https://github.com/2hamed)/[**goronos**](https://github.com/2hamed/goronos) | A linux task manager meant to replace crontab  |
 
 <h3><a name="rust"></a>Rust</h3>
 
