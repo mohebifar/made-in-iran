@@ -3,6 +3,7 @@
     {
       "category": "JavaScript",
       "repos": [
+        "nuxt/nuxt.js",
         "usablica/intro.js",
         "mohebifar/grafgiti",
         "lebab/lebab",
