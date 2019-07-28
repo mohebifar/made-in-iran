@@ -176,7 +176,7 @@ If you want to contribute, note that you should only update `data.json`.
 8 | [@goraz](https://github.com/goraz)/[**humanize**](https://github.com/goraz/humanize) | DEPRICATED : A simple human friendly :) ast representation for go, new version at https://github.com/fzerorubigd/humanize | 
 7 | [@mamal72](https://github.com/mamal72)/[**golyrics-telegram**](https://github.com/mamal72/golyrics-telegram) | A simple Telegram lyrics bot | 
 5 | [@sijad](https://github.com/sijad)/[**srtfixer**](https://github.com/sijad/srtfixer) | Persian subtitle fixer in golang | 
-
+2 | [@2hamed](https://github.com/2hamed)/[**goronos**](https://github.com/2hamed/goronos) | A linux task manager meant to replace crontab  |
 
 <h3><a name="rust"></a>Rust</h3>
 
@@ -201,7 +201,9 @@ If you want to contribute, note that you should only update `data.json`.
 48 | [@soroushjavdan](https://github.com/soroushjavdan)/[**ApplicationLocker**](https://github.com/soroushjavdan/ApplicationLocker) | With this library you could send users to lock activity after they leave your application . | 
 32 | [@AhmadNemati](https://github.com/AhmadNemati)/[**ClickableWebView**](https://github.com/AhmadNemati/ClickableWebView) | Simple WebView to Detect click on an image | 
 20 | [@soroushjavdan](https://github.com/soroushjavdan)/[**Android-Mandrill-Interface**](https://github.com/soroushjavdan/Android-Mandrill-Interface) | An Android Mandrill API Connector | [:arrow_upper_right:](http://soroushjavdan.net/)
-16 | [@yaa110](https://github.com/yaa110)/[**RestorableSQLiteDatabase**](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper around Android&#39;s SQLiteDatabase with restoring capability | 
+16 | [@yaa110](https://github.com/yaa110)/[**RestorableSQLiteDatabase**](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper around Android&#39;s SQLiteDatabase with restoring capability |
+30 | [@2hamed](https://github.com/2hamed)/[**ProgressCircula**](https://github.com/2hamed/ProgressCircula) | ProgressCircula is a lightweight customisable circular ProgressBar view for Android. |
+23 | [@2hamed](https://github.com/2hamed)/[**VerticalSlider**](https://github.com/2hamed/VerticalSlider) | Android library mimicing the iOS's volume and light vertical sliders. |
 
 
 <h3><a name="erlang"></a>Erlang</h3>
