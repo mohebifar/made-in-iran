@@ -174,7 +174,9 @@
       "repos": [
         "SaeedMasoumi/FAB-Loading",
         "alirezaafkar/SunDatePicker",
+        "imaNNeoFighT/StepBarView",
         "alirezaafkar/Toolbar",
+        "imaNNeoFighT/ArcChartView",
         "meNESS/EasyIntro",
         "navabi/JustifiedTextView",
         "soroushjavdan/ApplicationLocker",
@@ -250,8 +252,13 @@
         "mamal72/lyricsify-mac",
         "amosavian/FileProvider"
       ]
-    },
-    {
+    },{
+      "category": "Flutter",
+      "repose": [
+        "imaNNeoFighT/fl_chart",
+        "imaNNeoFighT/circular_bottom_navigation"
+      ]
+    }, {
       "category": "Font",
       "repos": [
         "font-store/font-nika",
