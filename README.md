@@ -262,8 +262,9 @@ If you want to contribute, note that you should only update `data.json`.
 --- | --- | --- | ---
 26 | [@amiremohamadi](https://github.com/amiremohamadi)/[**DuckX**](https://github.com/amiremohamadi/DuckX) | C++ library for creating and updating Microsoft Word (.docx) files. | 
 24 | [@mohebifar](https://github.com/mohebifar)/[**openbabel-node**](https://github.com/mohebifar/openbabel-node) | OpenBabel Bindings for Node.js | 
-11 | [@keyvank](https://github.com/keyvank)/[**tracy**](https://github.com/keyvank/tracy) | A simple open-source 3D engine written fully in C++ | 
-
+11 | [@keyvank](https://github.com/keyvank)/[**tracy**](https://github.com/keyvank/tracy) | A simple open-source 3D engine written fully in C++ |
+2 | [@novinsh](https://github.com/novinsh)/[**GamePlanner**](https://github.com/novinsh/GamePlanner) | Multi-agent coordination of the NAO humanoid robots in SPL | 
+4 | [@alipiry](https://github.com/alipiry)/[**PlanEditor**](https://github.com/alipiry/PlanEditor) | A GUI application for creating task assignment formations of NAO humanoid robots in SPL | 
 
 <h3><a name="c"></a>C</h3>
 
