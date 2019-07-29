@@ -190,7 +190,11 @@
         "mreram/TicketView",
         "MostafaNasiri/RtlNavigationView",
         "MostafaNasiri/AndroidFileChooser",
-        "MostafaNasiri/CircularPulsingButton"
+        "MostafaNasiri/CircularPulsingButton",
+        "aliab/circular-music-progressbar",
+        "aliab/Two-Step-Picker-Dialog",
+        "aliab/Persian-Date-Picker-Dialog",
+        "aliab/RTLMaterialSpinner"
       ]
     },
     {
