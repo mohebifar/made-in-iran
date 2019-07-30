@@ -105,7 +105,7 @@
       ]
     },
     {
-      "category":"Java",
+      "category": "Java",
       "repos": [
         "behsa-oss/geev",
         "behsa-oss/ganjex",
@@ -258,13 +258,15 @@
         "mamal72/lyricsify-mac",
         "amosavian/FileProvider"
       ]
-    },{
+    },
+    {
       "category": "Flutter",
-      "repose": [
+      "repos": [
         "imaNNeoFighT/fl_chart",
         "imaNNeoFighT/circular_bottom_navigation"
       ]
-    }, {
+    },
+    {
       "category": "Font",
       "repos": [
         "font-store/font-nika",
