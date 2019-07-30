@@ -36,10 +36,23 @@ const repositories = data.curated
         });
       });
 
+    const allSettled = fetchReposPromise.map(p => Promise.resolve(p)
+      .then(
+        val => ({ state: 'fulfilled', value: val }),
+        err => ({ state: 'rejected', reason: err })));
+
     return Promise
-      .all(fetchReposPromise)
+      .all(allSettled)
       .then(rawResult => {
-        const result = rawResult.filter(repo => repo.name && repo.owner)
+        const result = rawResult
+          .filter(({ state, value, reason }) => {
+            if (state === 'fulfilled' && value && value.name && value.owner) {
+              return true;
+            }
+
+            console.log('Skipping repo - fetch error', reason);
+          })
+          .map(({ value }) => value);
         return {
           category: item.category,
           repos: result.sort((a, b) => a.stargazers_count < b.stargazers_count ? 1 : -1),

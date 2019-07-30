@@ -3,6 +3,7 @@
     {
       "category": "JavaScript",
       "repos": [
+        "nuxt/nuxt.js",
         "usablica/intro.js",
         "mohebifar/grafgiti",
         "lebab/lebab",
@@ -47,7 +48,8 @@
         "mostafa/react-native-fullscreen-video",
         "msudgh/icu-loader",
         "ali-master/persian-tools",
-        "thebrodmann/deox"
+        "thebrodmann/deox",
+        "mort3za/ludo"
       ]
     },
     {
@@ -103,7 +105,7 @@
       ]
     },
     {
-      "category":"Java",
+      "category": "Java",
       "repos": [
         "behsa-oss/geev",
         "behsa-oss/ganjex",
@@ -135,7 +137,9 @@
         "moeinrahimi/monolog-telegram",
         "NabiKAZ/filimo-downloader",
         "NabiKAZ/namava-downloader",
-        "mastani/laravel-google-static-map"
+        "mastani/laravel-google-static-map",
+        "miladrahimi/phprouter",
+        "miladrahimi/php-jwt"
       ]
     },
     {
@@ -152,6 +156,7 @@
         "fzerorubigd/onion",
         "yaa110/go-persian-calendar",
         "fzerorubigd/zacman",
+        "ilius/repassgen",
         "ahmdrz/goinsta",
         "goraz/humanize",
         "nasermirzaei89/telegram",
@@ -172,7 +177,9 @@
       "repos": [
         "SaeedMasoumi/FAB-Loading",
         "alirezaafkar/SunDatePicker",
+        "imaNNeoFighT/StepBarView",
         "alirezaafkar/Toolbar",
+        "imaNNeoFighT/ArcChartView",
         "meNESS/EasyIntro",
         "navabi/JustifiedTextView",
         "soroushjavdan/ApplicationLocker",
@@ -188,7 +195,12 @@
         "mreram/TicketView",
         "MostafaNasiri/RtlNavigationView",
         "MostafaNasiri/AndroidFileChooser",
-        "MostafaNasiri/CircularPulsingButton"
+        "MostafaNasiri/CircularPulsingButton",
+        "ebraminio/DroidPersianCalendar",
+        "aliab/circular-music-progressbar",
+        "aliab/Two-Step-Picker-Dialog",
+        "aliab/Persian-Date-Picker-Dialog",
+        "aliab/RTLMaterialSpinner"
       ]
     },
     {
@@ -213,7 +225,8 @@
       "anchor": "cpp",
       "repos": [
         "mohebifar/openbabel-node",
-        "keyvank/tracy"
+        "keyvank/tracy",
+        "amiremohamadi/DuckX"
       ]
     },
     {
@@ -230,7 +243,8 @@
         "webdesigniran/PersianDataAnnotations",
         "0xaryan/KuttSharp",
         "0xaryan/EyesGuard",
-        "Sina-Soltani/Parbad"
+        "Sina-Soltani/Parbad",
+        "ehsan-mohammadi/eRamz"
       ]
     },
     {
@@ -244,6 +258,13 @@
       "repos": [
         "mamal72/lyricsify-mac",
         "amosavian/FileProvider"
+      ]
+    },
+    {
+      "category": "Flutter",
+      "repos": [
+        "imaNNeoFighT/fl_chart",
+        "imaNNeoFighT/circular_bottom_navigation"
       ]
     },
     {
@@ -276,7 +297,8 @@
         "sijad/iran-cities",
         "arastu/iran",
         "mostafa/gnulinux-book",
-        "mostafa/iptables_book"
+        "mostafa/iptables_book",
+        "HirbodBehnam/MTProtoProxyInstaller"
       ]
     }
   ]
