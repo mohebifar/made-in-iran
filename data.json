@@ -49,7 +49,8 @@
         "msudgh/icu-loader",
         "ali-master/persian-tools",
         "thebrodmann/deox",
-        "mort3za/ludo"
+        "mort3za/ludo",
+        "alipiry/tite-cli"
       ]
     },
     {
@@ -226,7 +227,9 @@
       "repos": [
         "mohebifar/openbabel-node",
         "keyvank/tracy",
-        "amiremohamadi/DuckX"
+        "amiremohamadi/DuckX",
+        "novinsh/GamePlanner",
+        "alipiry/PlanEditor"
       ]
     },
     {
