@@ -1,5 +1,7 @@
-git config --global user.email "deploy@travis-ci.org"
-git config --global user.name "Deployment Bot (from Travis CI)"
+export GIT_AUTHOR_EMAIL="deploy@travis-ci.org"
+export GIT_AUTHOR_NAME="Deployment Bot (from Travis CI)"
+export GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+export GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
 git status
 git add .
 git checkout master
