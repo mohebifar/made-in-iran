@@ -13,6 +13,6 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-<% for (j in curated[i].repos) { %>[![GitHub stars](https://img.shields.io/github/stars/<%= curated[i].repos[j].owner.login %>/<%= curated[i].repos[j].name %>.svg?label=)](https://github.com/<%= curated[i].repos[j].owner.login %>/<%= curated[i].repos[j].name %>/stargazers) | [@<%= curated[i].repos[j].owner.login %>](<%= curated[i].repos[j].owner.html_url %>)/[**<%= curated[i].repos[j].name %>**](<%= curated[i].repos[j].html_url %>) | <%= curated[i].repos[j].description %> | <% if(curated[i].repos[j].homepage) { %>[:arrow_upper_right:](<%= curated[i].repos[j].homepage %>)<% } %>
+<% for (j in curated[i].repos) { %>[![GitHub stars](https://img.shields.io/github/stars/<%= curated[i].repos[j].owner.login %>/<%= curated[i].repos[j].name %>.svg?label=stars)](https://github.com/<%= curated[i].repos[j].owner.login %>/<%= curated[i].repos[j].name %>/stargazers) | [@<%= curated[i].repos[j].owner.login %>](<%= curated[i].repos[j].owner.html_url %>)/[**<%= curated[i].repos[j].name %>**](<%= curated[i].repos[j].html_url %>) | <%= curated[i].repos[j].description %> | <% if(curated[i].repos[j].homepage) { %>[:arrow_upper_right:](<%= curated[i].repos[j].homepage %>)<% } %>
 <% } %>
 <% } %>
