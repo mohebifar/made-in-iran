@@ -270,6 +270,12 @@
       ]
     },
     {
+      "category": "Shell",
+      "repos": [
+        "soheilpro/zsh-vi-search"
+      ]
+    },
+    {
       "category": "Font",
       "repos": [
         "font-store/font-nika",
