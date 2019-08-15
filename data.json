@@ -256,6 +256,12 @@
       ]
     },
     {
+      "category": "Objective-C",
+      "repos": [
+        "soheilpro/HTTPKit"
+      ]
+    },
+    {
       "category": "Swift",
       "repos": [
         "mamal72/lyricsify-mac",
