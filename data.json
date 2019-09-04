@@ -3,6 +3,8 @@
     {
       "category": "JavaScript",
       "repos": [
+        "yeganehha/AStarAlgorithm",
+        "yeganehha/OSAlgorithm",
         "nuxt/nuxt.js",
         "usablica/intro.js",
         "mohebifar/grafgiti",
