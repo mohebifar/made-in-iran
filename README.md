@@ -33,10 +33,10 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-22282 | [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js) | The Vue.js Framework | [:arrow_upper_right:](https://nuxtjs.org)
-18513 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
-4890 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6. It does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
-2336 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
+22302 | [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js) | The Vue.js Framework | [:arrow_upper_right:](https://nuxtjs.org)
+18517 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
+4891 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6. It does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
+2339 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
 1273 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
 773 | [@morajabi](https://github.com/morajabi)/[**styled-media-query**](https://github.com/morajabi/styled-media-query) | 💅💍  Better media queries for styled-component | 
 563 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
@@ -86,11 +86,11 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-3919 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
+3920 | [@saeedalipoor](https://github.com/saeedalipoor)/[**icono**](https://github.com/saeedalipoor/icono) | One tag One icon, no font or svg, Pure CSS | [:arrow_upper_right:](http://git.io/icono)
 950 | [@morteza](https://github.com/morteza)/[**bootstrap-rtl**](https://github.com/morteza/bootstrap-rtl) | RTL Theme for Bootstrap v3.x | 
 649 | [@arashmanteghi](https://github.com/arashmanteghi)/[**simptip**](https://github.com/arashmanteghi/simptip) | A simple CSS tooltip made with Sass | [:arrow_upper_right:](http://arashm.net/lab/simptip/)
 371 | [@siamak](https://github.com/siamak)/[**licon**](https://github.com/siamak/licon) | Lightness and Useful icons with Pure CSS3 | [:arrow_upper_right:](http://siamak.github.io/licon)
-257 | [@MahdiMajidzadeh](https://github.com/MahdiMajidzadeh)/[**bootstrap-v4-rtl**](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl) | RTL edition of bootstrap v4 for rtl languages like Farsi and Arabic  | [:arrow_upper_right:](http://getbootstrap.com)
+258 | [@MahdiMajidzadeh](https://github.com/MahdiMajidzadeh)/[**bootstrap-v4-rtl**](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl) | RTL edition of bootstrap v4 for rtl languages like Farsi and Arabic  | [:arrow_upper_right:](http://getbootstrap.com)
 118 | [@siamak](https://github.com/siamak)/[**atom-panda-syntax**](https://github.com/siamak/atom-panda-syntax) | Panda syntax theme for Atom. | [:arrow_upper_right:](http://panda.siamak.work/)
 77 | [@webdesigniran](https://github.com/webdesigniran)/[**IranianBankLogos**](https://github.com/webdesigniran/IranianBankLogos) | Iranian bank logos - لوگوهای بانک های ایران | [:arrow_upper_right:](http://webdesigniran.github.io/IranianBankLogos)
 71 | [@MahdiMajidzadeh](https://github.com/MahdiMajidzadeh)/[**materialize-rtl**](https://github.com/MahdiMajidzadeh/materialize-rtl) | RTL version of materializecss framework v1.0.0 | [:arrow_upper_right:](http://mahdimajidzadeh.github.io/materialize-rtl/)
@@ -112,9 +112,9 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-871 | [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary) | A tool for converting dictionary files aka glossaries with various formats for different dictionary applications | 
+872 | [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary) | A tool for converting dictionary files aka glossaries with various formats for different dictionary applications | 
 825 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm) | Multi-class confusion matrix library in Python | [:arrow_upper_right:](http://pycm.ir)
-527 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art) | 🎨 ASCII art library for Python | [:arrow_upper_right:](http://art.shaghighi.ir)
+528 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art) | 🎨 ASCII art library for Python | [:arrow_upper_right:](http://art.shaghighi.ir)
 413 | [@sobhe](https://github.com/sobhe)/[**hazm**](https://github.com/sobhe/hazm) | Python library for digesting Persian text. | [:arrow_upper_right:](http://www.sobhe.ir/hazm)
 324 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk**](https://github.com/smoqadam/PyFladesk) | create desktop application by using Flask and QtWebKit  | 
 111 | [@smoqadam](https://github.com/smoqadam)/[**python-tips**](https://github.com/smoqadam/python-tips) | List of python tips | 
@@ -218,7 +218,7 @@ If you want to contribute, note that you should only update `data.json`.
 206 | [@alirezaafkar](https://github.com/alirezaafkar)/[**SunDatePicker**](https://github.com/alirezaafkar/SunDatePicker) | Date picker for Iranian calendar | 
 196 | [@AhmadNemati](https://github.com/AhmadNemati)/[**WindView**](https://github.com/AhmadNemati/WindView) | WindView is an Android Library to show Weather&#39;s Wind &amp; pressure Status | 
 176 | [@yaa110](https://github.com/yaa110)/[**Piclice**](https://github.com/yaa110/Piclice) | Android application to slice and share your pictures | 
-152 | [@mreram](https://github.com/mreram)/[**ShowCaseView**](https://github.com/mreram/ShowCaseView) | :flashlight:The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with an attractive and flat overlay. | [:arrow_upper_right:](https://mreram.github.io/ShowCaseView/)
+153 | [@mreram](https://github.com/mreram)/[**ShowCaseView**](https://github.com/mreram/ShowCaseView) | :flashlight:The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with an attractive and flat overlay. | [:arrow_upper_right:](https://mreram.github.io/ShowCaseView/)
 137 | [@navabi](https://github.com/navabi)/[**JustifiedTextView**](https://github.com/navabi/JustifiedTextView) | a custom view that simulate justified text for you | 
 128 | [@aliab](https://github.com/aliab)/[**Persian-Date-Picker-Dialog**](https://github.com/aliab/Persian-Date-Picker-Dialog) | Persian Date Picker Dialog for Android | 
 91 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**StepBarView**](https://github.com/imaNNeoFighT/StepBarView) | Step Bar View (make your own customized StepBar) | 
@@ -304,7 +304,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-698 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart) | A powerful Flutter chart library, currently supporting Line Chart, Bar Chart and Pie Chart. | 
+701 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart) | A powerful Flutter chart library, currently supporting Line Chart, Bar Chart and Pie Chart. | 
 202 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**circular_bottom_navigation**](https://github.com/imaNNeoFighT/circular_bottom_navigation) |  | 
 
 
