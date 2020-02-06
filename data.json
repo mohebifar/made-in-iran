@@ -122,6 +122,7 @@
     {
       "category": "PHP",
       "repos": [
+        "evryn/laravel-toman",
         "imanghafoori1/laravel-heyman",
         "imanghafoori1/laravel-widgetize",
         "imanghafoori1/laravel-masterpass",
