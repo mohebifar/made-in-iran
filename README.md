@@ -79,6 +79,7 @@ If you want to contribute, note that you should only update `data.json`.
 8 | [@mamal72](https://github.com/mamal72)/[**node-yahoo-weather**](https://github.com/mamal72/node-yahoo-weather) | [DEPRECATED - SEE ISSUES] :umbrella: A simple isomorphic yahoo weather API wrapper in 10 lines of code | 
 5 | [@mamal72](https://github.com/mamal72)/[**atom-isup**](https://github.com/mamal72/atom-isup) | :octocat: Simple Atom package to check website up or down status using isitup | 
 3 | [@alipiry](https://github.com/alipiry)/[**tite-cli**](https://github.com/alipiry/tite-cli) | (time + date) getter | 
+1 | [@alipirpiran](https://github.com/alipirpiran)/[**Crypto-Price-Tracker-for-Gnome-Shell**](https://github.com/alipirpiran/Crypto-Price-Tracker-for-Gnome-Shell) | An extension for Gnome-Shell to track Crypto currencies price | 
 
 
 <h3><a name="css"></a>CSS</h3>
