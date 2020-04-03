@@ -1,6 +1,12 @@
 {
   "curated": [
     {
+      "category": "Awesome Lists",
+      "repos": [
+        "soroushchehresa/awesome-coronavirus"
+      ]
+    },
+    {
       "category": "JavaScript",
       "repos": [
         "nuxt/nuxt.js",
