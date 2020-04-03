@@ -2,6 +2,7 @@
   "curated": [
     {
       "category": "Awesome Lists",
+      "anchor" :"awesome-lists",
       "repos": [
         "soroushchehresa/awesome-coronavirus"
       ]
