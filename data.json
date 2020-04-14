@@ -1,6 +1,5 @@
 {
-  "curated": [
-    {
+  "curated": [{
       "category": "JavaScript",
       "repos": [
         "nuxt/nuxt.js",
@@ -50,7 +49,8 @@
         "ali-master/persian-tools",
         "thebrodmann/deox",
         "mort3za/ludo",
-        "alipiry/tite-cli"
+        "alipiry/tite-cli",
+        "theMasix/telegram-scdl"
       ]
     },
     {
