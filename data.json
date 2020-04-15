@@ -58,7 +58,8 @@
         "thebrodmann/deox",
         "mort3za/ludo",
         "alipiry/tite-cli",
-        "soroushchehresa/unsplash-wallpapers"
+        "soroushchehresa/unsplash-wallpapers",
+        "soroushchehresa/axios-react"
       ]
     },
     {
