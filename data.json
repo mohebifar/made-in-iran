@@ -1,6 +1,13 @@
 {
   "curated": [
     {
+      "category": "Awesome Lists",
+      "anchor": "awesome-lists",
+      "repos": [
+        "soroushchehresa/awesome-coronavirus"
+      ]
+    },
+    {
       "category": "JavaScript",
       "repos": [
         "nuxt/nuxt.js",
@@ -51,7 +58,8 @@
         "thebrodmann/deox",
         "mort3za/ludo",
         "alipiry/tite-cli",
-        "soroushchehresa/vue-soundcloud"
+        "soroushchehresa/vue-soundcloud",
+        "soroushchehresa/unsplash-wallpapers"
       ]
     },
     {
