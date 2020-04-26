@@ -235,6 +235,7 @@
       "anchor": "cpp",
       "repos": [
         "mohebifar/openbabel-node",
+        "MeLikeyCode/QtGameTutorial",
         "keyvank/tracy",
         "amiremohamadi/DuckX",
         "novinsh/GamePlanner",
