@@ -309,7 +309,11 @@
         "arastu/iran",
         "mostafa/gnulinux-book",
         "mostafa/iptables_book",
-        "HirbodBehnam/MTProtoProxyInstaller"
+        "HirbodBehnam/MTProtoProxyInstaller",
+        "amirshnll/Persian-Swear-Words",
+        "amirshnll/persianwordjson",
+        "amirshnll/Flat-UI-Colors",
+        "amirshnll/English-Persian-Word-Database"
       ]
     }
   ]
