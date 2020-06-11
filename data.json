@@ -4,7 +4,8 @@
       "category": "Awesome Lists",
       "anchor": "awesome-lists",
       "repos": [
-        "soroushchehresa/awesome-coronavirus"
+        "soroushchehresa/awesome-coronavirus",
+        "KevinScruff/awesome-zites"
       ]
     },
     {
@@ -110,7 +111,8 @@
         "msudgh/syncshell",
         "msudgh/terminator-search",
         "univa64/kutt-cli",
-        "mhajiloo/persiantools"
+        "mhajiloo/persiantools",
+        "KevinScruff/corona-bot"
       ]
     },
     {
