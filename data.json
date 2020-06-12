@@ -261,7 +261,8 @@
     {
       "category": "Lua",
       "repos": [
-        "psamim/telegram-cli-backup"
+        "psamim/telegram-cli-backup",
+        "hkhojasteh/Q-Smartwatch"
       ]
     },
     {
