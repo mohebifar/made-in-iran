@@ -246,6 +246,7 @@
       "category": "C",
       "repos": [
         "aminroosta/sqlite_modern_cpp",
+        "aligrudi/neatroff",
         "hamidreza-s/NanoChat"
       ]
     },
