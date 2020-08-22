@@ -11,6 +11,7 @@
       "category": "JavaScript",
       "repos": [
         "nuxt/nuxt.js",
+        "iamhosseindhv/notistack",
         "usablica/intro.js",
         "mohebifar/grafgiti",
         "lebab/lebab",
