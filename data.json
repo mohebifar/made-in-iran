@@ -8,6 +8,12 @@
       ]
     },
     {
+      "category": "Vala",
+      "repos": [
+          "LinArcX/vlibcal"
+      ]
+    },
+    {
       "category": "JavaScript",
       "repos": [
         "nuxt/nuxt.js",
