@@ -247,6 +247,7 @@
       "category": "C",
       "repos": [
         "aminroosta/sqlite_modern_cpp",
+        "soroush/libcalendars",
         "hamidreza-s/NanoChat"
       ]
     },
