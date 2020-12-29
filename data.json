@@ -240,7 +240,8 @@
         "keyvank/tracy",
         "amiremohamadi/DuckX",
         "novinsh/GamePlanner",
-        "alipiry/PlanEditor"
+        "alipiry/PlanEditor",
+        "harfbuzz/harfbuzz"
       ]
     },
     {
