@@ -114,7 +114,8 @@
         "msudgh/syncshell",
         "msudgh/terminator-search",
         "univa64/kutt-cli",
-        "mhajiloo/persiantools"
+        "mhajiloo/persiantools",
+        "QueraTeam/django-qsessions"
       ]
     },
     {
