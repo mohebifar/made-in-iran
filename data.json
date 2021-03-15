@@ -1,6 +1,5 @@
 {
-  "curated": [
-    {
+  "curated": [{
       "category": "Awesome Lists",
       "anchor": "awesome-lists",
       "repos": [
@@ -261,7 +260,8 @@
         "0xaryan/KuttSharp",
         "0xaryan/EyesGuard",
         "ehsan-mohammadi/eRamz",
-        "kokabi1365/Vajehdan"
+        "kokabi1365/Vajehdan",
+        "Mds92/MD.PersianDateTime"
       ]
     },
     {
