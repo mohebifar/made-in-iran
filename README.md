@@ -42,11 +42,11 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-35229 | [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js) | The Intuitive Vue Framework | [:arrow_upper_right:](https://nuxtjs.org)
-20088 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
-5395 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
-4667 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
-1896 | [@iamhosseindhv](https://github.com/iamhosseindhv)/[**notistack**](https://github.com/iamhosseindhv/notistack) | Highly customizable notification snackbars (toasts) that can be stacked on top of each other | [:arrow_upper_right:](https://iamhosseindhv.com/notistack)
+35434 | [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js) | The Intuitive Vue Framework | [:arrow_upper_right:](https://nuxtjs.org)
+20094 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | [:arrow_upper_right:](http://introjs.com)
+5396 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
+4669 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
+1900 | [@iamhosseindhv](https://github.com/iamhosseindhv)/[**notistack**](https://github.com/iamhosseindhv/notistack) | Highly customizable notification snackbars (toasts) that can be stacked on top of each other | [:arrow_upper_right:](https://iamhosseindhv.com/notistack)
 1392 | [@AriaMinaei](https://github.com/AriaMinaei)/[**pretty-error**](https://github.com/AriaMinaei/pretty-error) | See node.js errors with less clutter | 
 1171 | [@morajabi](https://github.com/morajabi)/[**styled-media-query**](https://github.com/morajabi/styled-media-query) | 💅💍  Better media queries for styled-component | 
 727 | [@jalaali](https://github.com/jalaali)/[**moment-jalaali**](https://github.com/jalaali/moment-jalaali) | A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js. | 
@@ -62,7 +62,7 @@ If you want to contribute, note that you should only update `data.json`.
 160 | [@soroushchehresa](https://github.com/soroushchehresa)/[**unsplash-wallpapers**](https://github.com/soroushchehresa/unsplash-wallpapers) | 🖼️ Unsplash cross-platform desktop application built with Electron, React and Redux | 
 140 | [@AriaMinaei](https://github.com/AriaMinaei)/[**RenderKid**](https://github.com/AriaMinaei/RenderKid) | Stylish console.log for node | 
 116 | [@mdibaiee](https://github.com/mdibaiee)/[**node-telegram-api**](https://github.com/mdibaiee/node-telegram-api) | A simple API to create and control Telegram bots | 
-114 | [@Sazito](https://github.com/Sazito)/[**phoenix**](https://github.com/Sazito/phoenix) | A simple boilerplate that helps you make your react application with Server Side Rendering &amp; Localization support. | 
+115 | [@Sazito](https://github.com/Sazito)/[**phoenix**](https://github.com/Sazito/phoenix) | A simple boilerplate that helps you make your react application with Server Side Rendering &amp; Localization support. | 
 98 | [@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian) | :earth_asia: Persian tools for angular.js | 
 66 | [@mamal72](https://github.com/mamal72)/[**persian-twitter**](https://github.com/mamal72/persian-twitter) | A WebExtension which improves Twitter &amp; TweetDeck user experience for Persian users | 
 61 | [@mostafa](https://github.com/mostafa)/[**react-native-fullscreen-video**](https://github.com/mostafa/react-native-fullscreen-video) | A full-screen video component on top of react-native-video | 
@@ -118,9 +118,9 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-1260 | [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary) | A tool for converting dictionary files aka glossaries. The primary purpose is to be able to use our offline glossaries in any Open Source dictionary we like on any OS/device. | 
+1261 | [@ilius](https://github.com/ilius)/[**pyglossary**](https://github.com/ilius/pyglossary) | A tool for converting dictionary files aka glossaries. The primary purpose is to be able to use our offline glossaries in any Open Source dictionary we like on any OS/device. | 
 1083 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**pycm**](https://github.com/sepandhaghighi/pycm) | Multi-class confusion matrix library in Python | [:arrow_upper_right:](http://pycm.ir)
-1031 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art) | 🎨 ASCII art library for Python | [:arrow_upper_right:](https://www.4r7.ir)
+1032 | [@sepandhaghighi](https://github.com/sepandhaghighi)/[**art**](https://github.com/sepandhaghighi/art) | 🎨 ASCII art library for Python | [:arrow_upper_right:](https://www.4r7.ir)
 599 | [@sobhe](https://github.com/sobhe)/[**hazm**](https://github.com/sobhe/hazm) | Python library for digesting Persian text. | [:arrow_upper_right:](http://www.sobhe.ir/hazm)
 399 | [@smoqadam](https://github.com/smoqadam)/[**PyFladesk**](https://github.com/smoqadam/PyFladesk) | create desktop application by using Flask and QtWebKit  | 
 116 | [@smoqadam](https://github.com/smoqadam)/[**python-tips**](https://github.com/smoqadam/python-tips) | List of python tips | 
@@ -189,7 +189,7 @@ If you want to contribute, note that you should only update `data.json`.
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 741 | [@ahmdrz](https://github.com/ahmdrz)/[**goinsta**](https://github.com/ahmdrz/goinsta) | Unofficial Instagram API written in Golang | 
-251 | [@Arman92](https://github.com/Arman92)/[**go-tdlib**](https://github.com/Arman92/go-tdlib) | Golang Telegram TdLib JSON bindings | 
+252 | [@Arman92](https://github.com/Arman92)/[**go-tdlib**](https://github.com/Arman92/go-tdlib) | Golang Telegram TdLib JSON bindings | 
 93 | [@yaa110](https://github.com/yaa110)/[**go-persian-calendar**](https://github.com/yaa110/go-persian-calendar) | The implementation of Persian (Solar Hijri) Calendar in Go | [:arrow_upper_right:](https://pkg.go.dev/github.com/yaa110/go-persian-calendar)
 73 | [@fzerorubigd](https://github.com/fzerorubigd)/[**tmass**](https://github.com/fzerorubigd/tmass) | tmux session manager written in golang | 
 36 | [@mamal72](https://github.com/mamal72)/[**golyrics**](https://github.com/mamal72/golyrics) | A simple Go package to fetch lyrics from Wikia | 
@@ -219,7 +219,7 @@ If you want to contribute, note that you should only update `data.json`.
 813 | [@aliab](https://github.com/aliab)/[**circular-music-progressbar**](https://github.com/aliab/circular-music-progressbar) | Beautiful Circular Progress Bar with album art for android | 
 675 | [@SaeedMasoumi](https://github.com/SaeedMasoumi)/[**FAB-Loading**](https://github.com/SaeedMasoumi/FAB-Loading) | A loading animation based on Floating Action Button | 
 483 | [@saeedsh92](https://github.com/saeedsh92)/[**Banner-Slider**](https://github.com/saeedsh92/Banner-Slider) | Banner slider is an easy to use library for implement image sliders in android apps.  | 
-429 | [@yaa110](https://github.com/yaa110)/[**Effects-Pro**](https://github.com/yaa110/Effects-Pro) | An easy-to-use Android application to apply filters to images | 
+430 | [@yaa110](https://github.com/yaa110)/[**Effects-Pro**](https://github.com/yaa110/Effects-Pro) | An easy-to-use Android application to apply filters to images | 
 286 | [@mreram](https://github.com/mreram)/[**ShowCaseView**](https://github.com/mreram/ShowCaseView) | :flashlight:The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with an attractive and flat overlay. | 
 273 | [@aliab](https://github.com/aliab)/[**Two-Step-Picker-Dialog**](https://github.com/aliab/Two-Step-Picker-Dialog) | Two step wheel picker dialog for Android | 
 226 | [@alirezaafkar](https://github.com/alirezaafkar)/[**SunDatePicker**](https://github.com/alirezaafkar/SunDatePicker) | Date picker for Iranian calendar | 
@@ -228,7 +228,7 @@ If you want to contribute, note that you should only update `data.json`.
 180 | [@yaa110](https://github.com/yaa110)/[**Piclice**](https://github.com/yaa110/Piclice) | Android application to slice and share your pictures | 
 147 | [@navabi](https://github.com/navabi)/[**JustifiedTextView**](https://github.com/navabi/JustifiedTextView) | a custom view that simulate justified text for you | 
 101 | [@mreram](https://github.com/mreram)/[**TicketView**](https://github.com/mreram/TicketView) | :ticket: A custom view for showing tickets | 
-97 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**StepBarView**](https://github.com/imaNNeoFighT/StepBarView) | Step Bar View (make your own customized StepBar) | 
+98 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**StepBarView**](https://github.com/imaNNeoFighT/StepBarView) | Step Bar View (make your own customized StepBar) | 
 96 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**ArcChartView**](https://github.com/imaNNeoFighT/ArcChartView) | Arc Chart View (Draw Creative Statistic Arc Charts) | 
 91 | [@alirezaafkar](https://github.com/alirezaafkar)/[**Toolbar**](https://github.com/alirezaafkar/Toolbar) | Android toolbar with layout direction support | 
 56 | [@aliab](https://github.com/aliab)/[**RTLMaterialSpinner**](https://github.com/aliab/RTLMaterialSpinner) | an RTL Material Spinner for android | 
@@ -299,7 +299,7 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-728 | [@amosavian](https://github.com/amosavian)/[**FileProvider**](https://github.com/amosavian/FileProvider) | FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift | 
+729 | [@amosavian](https://github.com/amosavian)/[**FileProvider**](https://github.com/amosavian/FileProvider) | FileManager replacement for Local, iCloud and Remote (WebDAV/FTP/Dropbox/OneDrive) files -- Swift | 
 78 | [@mamal72](https://github.com/mamal72)/[**lyricsify-mac**](https://github.com/mamal72/lyricsify-mac) | A simple Spotify lyrics viewer menu bar app for macOS in Swift 3 | 
 
 
@@ -307,15 +307,15 @@ If you want to contribute, note that you should only update `data.json`.
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-2838 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart) | A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart. | 
-368 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**circular_bottom_navigation**](https://github.com/imaNNeoFighT/circular_bottom_navigation) |  | 
+2843 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**fl_chart**](https://github.com/imaNNeoFighT/fl_chart) | A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart. | 
+370 | [@imaNNeoFighT](https://github.com/imaNNeoFighT)/[**circular_bottom_navigation**](https://github.com/imaNNeoFighT/circular_bottom_navigation) |  | 
 
 
 <h3><a name="font"></a>Font</h3>
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-1090 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-font**](https://github.com/rastikerdar/vazir-font) | Vazir is a Persian/Arabic font. وزیر یک فونت فارسی/عربی است https://rastikerdar.github.io/vazir-font/ | 
+1092 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-font**](https://github.com/rastikerdar/vazir-font) | Vazir is a Persian/Arabic font. وزیر یک فونت فارسی/عربی است https://rastikerdar.github.io/vazir-font/ | 
 317 | [@rastikerdar](https://github.com/rastikerdar)/[**samim-font**](https://github.com/rastikerdar/samim-font) | A Persian (Farsi) Font - فونت (قلم) فارسی صمیم | 
 276 | [@rastikerdar](https://github.com/rastikerdar)/[**shabnam-font**](https://github.com/rastikerdar/shabnam-font) | A Persian (Farsi) Font - فونت (قلم) فارسی شبنم | 
 201 | [@rastikerdar](https://github.com/rastikerdar)/[**vazir-code-font**](https://github.com/rastikerdar/vazir-code-font) | A Persian (farsi) Monospaced Font for coding - فونت (قلم) فارسی وزیرکد برای کد نویسی | 
