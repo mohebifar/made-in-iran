@@ -62,7 +62,8 @@
         "alipiry/tite-cli",
         "Sazito/phoenix",
         "soroushchehresa/unsplash-wallpapers",
-        "themzed/PersianJSONPlaceholder"
+        "themzed/PersianJSONPlaceholder",
+        "Kiarash-Z/react-modern-calendar-datepicker"
       ]
     },
     {
