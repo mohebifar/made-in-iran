@@ -246,14 +246,25 @@
         "keyvank/tracy",
         "amiremohamadi/DuckX",
         "novinsh/GamePlanner",
-        "alipiry/PlanEditor"
+        "alipiry/PlanEditor",
+        "Targoman/TargomanCommon",
+        "Targoman/TargomanDBM",
+        "Targoman/TargomanDBM",
+        "Targoman/E4MT",
+        "Targoman/QRESTServer",
+        "Targoman/TextProcessor",
+        "Targoman/QHttp",
+        "Targoman/TargomanNMT",
+        "Targoman/MTEval",
+        "Targoman/TargomanSMT",
       ]
     },
     {
       "category": "C",
       "repos": [
         "aminroosta/sqlite_modern_cpp",
-        "hamidreza-s/NanoChat"
+        "hamidreza-s/NanoChat",
+        "ziabary/ISO639"
       ]
     },
     {
