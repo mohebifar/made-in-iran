@@ -60,10 +60,12 @@
         "thebrodmann/deox",
         "mort3za/ludo",
         "alipiry/tite-cli",
+        "soroushchehresa/unsplash-wallpapers",
         "Sazito/phoenix",
         "soroushchehresa/unsplash-wallpapers",
         "themzed/PersianJSONPlaceholder",
-        "Kiarash-Z/react-modern-calendar-datepicker"
+        "Kiarash-Z/react-modern-calendar-datepicker",
+        "soroushchehresa/cli-corona"
       ]
     },
     {
