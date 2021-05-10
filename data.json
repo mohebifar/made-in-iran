@@ -16,6 +16,8 @@
     {
       "category": "JavaScript",
       "repos": [
+        "yeganehha/AStarAlgorithm",
+        "yeganehha/OSAlgorithm",
         "nuxt/nuxt.js",
         "iamhosseindhv/notistack",
         "usablica/intro.js",
