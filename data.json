@@ -8,6 +8,12 @@
       ]
     },
     {
+      "category": "TypeScript",
+      "repos": [
+          "ganjoor/ganjoor-api"
+      ]
+    },
+    {
       "category": "JavaScript",
       "repos": [
         "nuxt/nuxt.js",
