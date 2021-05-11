@@ -100,7 +100,7 @@
     {
       "category": "Python",
       "repos": [
-        "ParsianRoboticLab/Zero-Shot-Learning"
+        "ParsianRoboticLab/Zero-Shot-Learning",
         "smoqadam/python-tips",
         "smoqadam/PyFladesk",
         "smoqadam/PyFladesk-rss-reader",
@@ -194,7 +194,7 @@
     {
       "category": "Rust",
       "repos": [
-        "ParsianRoboticLab/RAIC2019"
+        "ParsianRoboticLab/RAIC2019",
         "yaa110/rust-persian-calendar"
       ]
     },
@@ -250,7 +250,7 @@
       "category": "C++",
       "anchor": "cpp",
       "repos": [
-        "mhmmdshirazi/QT-Mobile-Sensors"
+        "mhmmdshirazi/QT-Mobile-Sensors",
         "mohebifar/openbabel-node",
         "keyvank/tracy",
         "amiremohamadi/DuckX",
