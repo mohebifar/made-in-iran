@@ -226,7 +226,8 @@
         "aliab/circular-music-progressbar",
         "aliab/Two-Step-Picker-Dialog",
         "aliab/Persian-Date-Picker-Dialog",
-        "aliab/RTLMaterialSpinner"
+        "aliab/RTLMaterialSpinner",
+        "SirLordPouya/AndroidAppUpdater"
       ]
     },
     {
