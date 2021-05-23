@@ -1,8 +1,8 @@
 # Made in Iran
 
-> A list of neat projects made in Iran.
+A curated list of open-source projects made in Iran.
 
-If you want to contribute, note that you should only update `data.json`.
+Please review our contributing guidelines if you want to suggest a new project.
 
 ## Contents
 <% for (i in curated) { %> - [<%= curated[i].category %>](#<%= curated[i].anchor %>)
