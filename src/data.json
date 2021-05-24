@@ -11,7 +11,7 @@
     {
       "category": "TypeScript",
       "repos": [
-          "ganjoor/ganjoor-api"
+        "ganjoor/ganjoor-api"
       ]
     },
     {
@@ -354,5 +354,6 @@
         "softwaretalks/newsletter"
       ]
     }
-  ]
+  ],
+  "lastUpdate": "2021-05-24T01:52:06.231Z"
 }
