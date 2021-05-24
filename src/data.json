@@ -1,5 +1,6 @@
 {
-  "curated": [{
+  "curated": [
+    {
       "category": "Awesome Lists",
       "anchor": "awesome-lists",
       "repos": [
@@ -10,7 +11,7 @@
     {
       "category": "TypeScript",
       "repos": [
-          "ganjoor/ganjoor-api"
+        "ganjoor/ganjoor-api"
       ]
     },
     {
@@ -60,7 +61,6 @@
         "thedevs-network/kutt",
         "mahmoudmy/naaab.ir",
         "mostafa/react-native-fullscreen-video",
-        "msudgh/icu-loader",
         "ali-master/persian-tools",
         "thebrodmann/deox",
         "mort3za/ludo",
@@ -156,7 +156,6 @@
         "smoqadam/php-telegram-cli",
         "Nevercom/php-ipg-ir",
         "smmoosavi/php-gettext",
-        "forester-coder/Telegram",
         "moeinrahimi/monolog-telegram",
         "NabiKAZ/filimo-downloader",
         "NabiKAZ/namava-downloader",
@@ -206,7 +205,6 @@
         "imaNNeoFighT/StepBarView",
         "alirezaafkar/Toolbar",
         "imaNNeoFighT/ArcChartView",
-        "meNESS/EasyIntro",
         "navabi/JustifiedTextView",
         "soroushjavdan/ApplicationLocker",
         "soroushjavdan/Android-Mandrill-Interface",
@@ -356,5 +354,6 @@
         "softwaretalks/newsletter"
       ]
     }
-  ]
+  ],
+  "lastUpdate": "2021-05-24T01:52:06.231Z"
 }
