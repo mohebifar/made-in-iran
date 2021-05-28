@@ -1,6 +1,6 @@
 ---
 
-name: Add a new repository
+name: Add a new repository -> [YOUR_REPOSITORY_NAME]
 about: Introduce your repository to the world!
 title: Add a new repository 
 labels: add
