@@ -8,5 +8,5 @@ assignees: amirbagh75, mohebifar
 
 ---
 
-Repository name: ``
-Repository category: ``
+Repository name: ""
+Repository category: ""
