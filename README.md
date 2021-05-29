@@ -52,7 +52,7 @@ Please review our [contributing guidelines](https://github.com/mohebifar/made-in
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-36326 | [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js) | The Intuitive Vue Framework | [:arrow_upper_right:](https://nuxtjs.org)
+36325 | [@nuxt](https://github.com/nuxt)/[**nuxt.js**](https://github.com/nuxt/nuxt.js) | The Intuitive Vue Framework | [:arrow_upper_right:](https://nuxtjs.org)
 20227 | [@usablica](https://github.com/usablica)/[**intro.js**](https://github.com/usablica/intro.js) | Lightweight, user-friendly onboarding tour library | [:arrow_upper_right:](http://introjs.com)
 5421 | [@lebab](https://github.com/lebab)/[**lebab**](https://github.com/lebab/lebab) | Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does. | [:arrow_upper_right:](https://uniibu.github.io/lebab-ce/)
 4938 | [@thedevs-network](https://github.com/thedevs-network)/[**kutt**](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener. | [:arrow_upper_right:](https://kutt.it)
