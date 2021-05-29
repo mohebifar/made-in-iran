@@ -45,6 +45,8 @@ For add your repository, just enter this [link](https://github.com/mohebifar/mad
 
 ![Screenshot from 2021-05-29 02-23-03](https://user-images.githubusercontent.com/21690865/120045287-dfbd1a80-c024-11eb-9ebf-61ddb968d114.png)
 
+As you can see, if your repository URL is `https://github.com/username/repo`, just paste or type the `username/repo` field. 
+
 ### Categories:
 
  - Awesome-Lists
