@@ -26,6 +26,10 @@ const repoOptions = {
 
 const appId = 116701;
 const installationId = 17126944;
+const appName = "made-in-iran-bot";
+const commitMessage = "Automatic update of list";
+const gitAuthor = "Deployment Bot (from Travis CI) <deploy@travis-ci.org>";
+const filesToStage = ["README.md", "src/data.json"];
 const privateKey = Base64.fromBase64String(
   Deno.env.get("GITHUB_APP_PRIVATE_KEY") ?? ""
 ).toString();
@@ -49,6 +53,14 @@ const octokit = new Octokit({
     timeout: 10000,
   },
 });
+
+const {
+  data: { token: accessToken },
+} = await octokit.rest.apps.createInstallationAccessToken({
+  installation_id: installationId,
+});
+
+const remoteUrl = `https://${appName}:${accessToken}@github.com/${repoOptions.owner}/${repoOptions.repo}`;
 
 const list = await octokit.rest.issues.listCommentsForRepo({
   ...repoOptions,
@@ -171,6 +183,28 @@ try {
 } catch (error) {
   console.error(error);
 }
+
+await Deno.run({
+  cmd: ["git", "add", ...filesToStage],
+}).status();
+
+await Deno.run({
+  cmd: [
+    "git",
+    "commit",
+    "--author",
+    `"${gitAuthor}"`,
+    "-m",
+    `"${commitMessage}"`,
+  ],
+}).status();
+
+const output = await Deno.run({
+  cmd: ["git", "push", remoteUrl, "master"],
+  stdout: "piped",
+}).output();
+
+await Deno.stdout.write(output);
 
 Deno.exit();
 
