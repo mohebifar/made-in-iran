@@ -2,8 +2,8 @@
 
 ### چطور مخزن گیتهابم را به این لیست اضافه کنم؟
 
- کافیست وارد این [لینک](https://github.com/mohebifar/made-in-iran/issues/new?assignees=amirbagh75%2C+mohebifar%2C+mamal72&labels=add&template=CONTENT_CONTRIBUTE_TEMPLATE.md&title=Add+a+new+repository) شوید.
-همانطور که مشاهده میکنید، کافیست نام مخزن گیتهاب و دسته‌بندی مربوطه را بین علامت " " وارد کنید. برای مثال:
+ ابتدا وارد این [لینک](https://github.com/mohebifar/made-in-iran/issues/new?assignees=amirbagh75%2C+mohebifar%2C+mamal72&labels=add&template=CONTENT_CONTRIBUTE_TEMPLATE.md&title=Add+a+new+repository) شوید.
+سپس همانطور که مشاهده میکنید، کافیست نام مخزن گیتهاب و دسته‌بندی مربوطه را بین علامت " " وارد کنید. برای مثال:
 
 ![Screenshot from 2021-05-29 02-23-03](https://user-images.githubusercontent.com/21690865/120045287-dfbd1a80-c024-11eb-9ebf-61ddb968d114.png)
   
