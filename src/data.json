@@ -69,7 +69,8 @@
         "soroushchehresa/unsplash-wallpapers",
         "themzed/PersianJSONPlaceholder",
         "Kiarash-Z/react-modern-calendar-datepicker",
-        "soroushchehresa/cli-corona"
+        "soroushchehresa/cli-corona",
+        "hkhojasteh/Q-Smartwatch"
       ]
     },
     {
@@ -355,5 +356,5 @@
       ]
     }
   ],
-  "lastUpdate": "2021-05-24T01:59:30.211Z"
+  "lastUpdate": "2021-05-29T15:48:59.023Z"
 }
