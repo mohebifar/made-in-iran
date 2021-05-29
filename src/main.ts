@@ -189,6 +189,10 @@ await Deno.run({
 }).status();
 
 await Deno.run({
+  cmd: ["git", "checkout", "master"],
+}).status();
+
+await Deno.run({
   cmd: [
     "git",
     "commit",
