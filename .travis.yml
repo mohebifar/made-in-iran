@@ -9,4 +9,4 @@ before_install:
     - export DENO_INSTALL="$HOME/.deno"
     - export PATH="$DENO_INSTALL/bin:$PATH"
 script:
-  - deno run --allow-env --allow-read --allow-net --allow-write --no-check src/main.ts
+  - deno run --allow-env --allow-read --allow-net --allow-write --allow-run --no-check src/main.ts
