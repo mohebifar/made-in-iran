@@ -1,21 +1,23 @@
 <div dir='rtl'>
  
-### برای اضافه کردن یک مخزن به این لیست چه پیش‌نیاز‌هایی باید رعایت شده باشد؟
+### چه مخزن‌هایی را می‌توان به این فهرست اضافه کرد؟
  
-- حداقل **10** تا Star داشته باشد.
+لطفاً پیش از پیشنهاد یک مخزن جدید، مطمئن شوید که شرایط زیر را دارد:
+ 
 - حداقل یکی از توسعه‌دهندگان اصلی آن **ایرانی** باشد.
-- صفحه **README** کاملی از این که مخزن مربوطه درباره چه‌چیزی میباشد و چطور میشود از آن استفاده کرد، وجود داشته باشد.
+- یک صفحهٔ README کامل دربارهٔ مخزن و چگونگی استفاده از آن وجود داشته باشد.
+- حداقل ۱۰ استار داشته باشد.
 
- ### چطور مخزن گیتهابم را به این لیست اضافه کنم؟
+ ### چطور یک مخزن گیتهاب را به این فهرست اضافه کنم؟
 
- ابتدا وارد این [لینک](https://github.com/mohebifar/made-in-iran/issues/new?assignees=amirbagh75%2C+mohebifar%2C+mamal72&labels=add&template=CONTENT_CONTRIBUTE_TEMPLATE.md&title=Add+a+new+repository) شوید.
-سپس همانطور که مشاهده میکنید، کافیست نام مخزن گیتهاب و دسته‌بندی مربوطه را بین علامت " " وارد کنید. برای مثال:
+برای اضافه کردن یک مخزن جدید ابتدا مطمئن شوید که مخزن مورد نظر در حال حاضر در لیست موجود نیست. سپس از طریق [این لینک](https://github.com/mohebifar/made-in-iran/issues/new?assignees=amirbagh75%2C+mohebifar&labels=add&template=CONTENT_CONTRIBUTE_TEMPLATE.md&title=Add+REPO_NAME+by+REPO_OWNER) می‌توانید یک issue جدید همانند تصویر زیر ایجاد کرده و مخزن مورد نظر را پیشنهاد دهید.
 
-![Screenshot from 2021-05-29 02-23-03](https://user-images.githubusercontent.com/21690865/120045287-dfbd1a80-c024-11eb-9ebf-61ddb968d114.png)
- 
- همانطور که میبینید، اگر مثلا آدرس مخزن شما `https://github.com/username/repo` بود، کافیست فقط قسمت `username/repo` را وارد کنید.
-  
-### برای انتخاب دسته‌بندی موضوعی مخزن‌تان میتوانید یک مورد از لیست زیر را انتخاب کنید:
+![اسکرین شات از صفحه ایجاد ایشو](https://user-images.githubusercontent.com/6104558/120077740-e033d080-c079-11eb-9f09-1d6d305d4454.png)
+
+پس از ثبت ایشو و بازبینی و تایید توسط داوطلبان، issue توسط یک bot بررسی و مخزن پیشنهادی به فهرست اضافه خواهد شد. 
+
+
+### برای انتخاب دسته‌بندی موضوعی مخزن‌تان می‌توانید یک مورد از فهرست زیر را انتخاب کنید:
   
 </div>
 
@@ -44,14 +46,21 @@
  - Font
  - Labview
  - Other
-  
+
+### What repos can be listed?
+
+Before proposing a repo, please check that it meets the following criteria:
+
+- It must have a complete README about the repo and how it works;
+- It must have at least 5 stars;
+- One of its main contributors to be Iranian.
+
+
 ### How do I add my repository to this list?
 
-For add your repository, just enter this [link](https://github.com/mohebifar/made-in-iran/issues/new?assignees=amirbagh75%2C+mohebifar%2C+mamal72&labels=add&template=CONTENT_CONTRIBUTE_TEMPLATE.md&title=Add+a+new+repository). As you can see, just enter the name of your GitHub repository and the related category between the " ". for example: 
+In order to candidate a new repo, use [this link](https://github.com/mohebifar/made-in-iran/issues/new?assignees=amirbagh75%2C+mohebifar%2C+mamal72&labels=add&template=CONTENT_CONTRIBUTE_TEMPLATE.md&title=Add+a+new+repository) to create an issue using a pre-defined template. You will need to fill out the repository link and category as shown in the screenshot below.
 
-![Screenshot from 2021-05-29 02-23-03](https://user-images.githubusercontent.com/21690865/120045287-dfbd1a80-c024-11eb-9ebf-61ddb968d114.png)
-
-As you can see, if your repository URL is `https://github.com/username/repo`, just paste or type the `username/repo` field. 
+![Screenshot of the issue creation page](https://user-images.githubusercontent.com/6104558/120077740-e033d080-c079-11eb-9f09-1d6d305d4454.png)
 
 ### Categories:
 
