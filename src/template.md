@@ -2,7 +2,7 @@
 
 A curated list of open-source projects made in Iran.
 
-Please review our contributing guidelines if you want to suggest a new project.
+Please review our [contributing guidelines](https://github.com/mohebifar/made-in-iran/blob/master/.github/CONTRIBUTING.md) if you want to suggest a new project.
 
 ## Contents
 <% for (i in curated) { %> - [<%= curated[i].category %>](#<%= curated[i].anchor %>)
