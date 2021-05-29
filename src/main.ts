@@ -186,7 +186,7 @@ function hasCommand(body: string) {
 function evalAddCommand(body: string) {
   return body.match(
     // /add  OWNER_USERNAME                          / REPO_NAME      CATEGORY
-    /^\/add\s([a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38})\/([a-z0-9\-_]+)\s([a-z0-9\-_]+)*$/
+    /^\/add\s([a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38})\/([a-z0-9\-_]+)\s([a-z0-9\-_]+)*$/i
   );
 }
 
