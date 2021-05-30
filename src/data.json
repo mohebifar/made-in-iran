@@ -124,7 +124,8 @@
         "msudgh/terminator-search",
         "univa64/kutt-cli",
         "persepolisdm/persepolis",
-        "mhajiloo/persiantools"
+        "mhajiloo/persiantools",
+        "Navid2zp/hcloud-tg"
       ]
     },
     {
@@ -225,7 +226,8 @@
         "aliab/circular-music-progressbar",
         "aliab/Two-Step-Picker-Dialog",
         "aliab/Persian-Date-Picker-Dialog",
-        "aliab/RTLMaterialSpinner"
+        "aliab/RTLMaterialSpinner",
+        "SirLordPouya/AndroidAppUpdater"
       ]
     },
     {
@@ -357,5 +359,5 @@
       ]
     }
   ],
-  "lastUpdate": "2021-05-30T06:38:10.433Z"
+  "lastUpdate": "2021-05-30T15:06:35.119Z"
 }
