@@ -196,7 +196,8 @@
       "category": "Rust",
       "repos": [
         "ParsianRoboticLab/RAIC2019",
-        "yaa110/rust-persian-calendar"
+        "yaa110/rust-persian-calendar",
+        "hosseind88/crypto-watcher"
       ]
     },
     {
@@ -359,5 +360,5 @@
       ]
     }
   ],
-  "lastUpdate": "2021-06-03T06:41:12.271Z"
+  "lastUpdate": "2021-06-04T06:41:47.518Z"
 }
