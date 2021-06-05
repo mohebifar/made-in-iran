@@ -61,7 +61,7 @@
         "thedevs-network/kutt",
         "mahmoudmy/naaab.ir",
         "mostafa/react-native-fullscreen-video",
-        "ali-master/persian-tools",
+        "persian-tools/persian-tools",
         "thebrodmann/deox",
         "mort3za/ludo",
         "alipiry/tite-cli",
@@ -125,7 +125,8 @@
         "univa64/kutt-cli",
         "persepolisdm/persepolis",
         "mhajiloo/persiantools",
-        "Navid2zp/hcloud-tg"
+        "Navid2zp/hcloud-tg",
+        "persian-tools/py-persian-tools"
       ]
     },
     {
@@ -189,7 +190,8 @@
         "mamal72/golyrics",
         "mamal72/golyrics-telegram",
         "arman92/go-tdlib",
-        "Navid2zp/dups"
+        "Navid2zp/dups",
+        "persian-tools/go-persian-tools"
       ]
     },
     {
@@ -301,6 +303,12 @@
       "repos": [
         "mamal72/lyricsify-mac",
         "amosavian/FileProvider"
+      ]
+    },
+    {
+      "category": "Dart",
+      "repos": [
+        "persian-tools/dart-persian-tools"
       ]
     },
     {
