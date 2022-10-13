@@ -34,14 +34,6 @@ const privateKey = Base64.fromBase64String(
   Deno.env.get("GITHUB_APP_PRIVATE_KEY") ?? ""
 ).toString();
 
-// Hack: This is to get the JWT sign work with Deno
-globalThis.crypto = {
-  subtle: {
-    importKey: () => {},
-    sign: RSASign,
-  },
-};
-
 const octokit = new Octokit({
   authStrategy: createAppAuth,
   auth: {
