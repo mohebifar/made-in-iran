@@ -307,7 +307,8 @@
       "category": "Flutter",
       "repos": [
         "imaNNeoFighT/fl_chart",
-        "imaNNeoFighT/circular_bottom_navigation"
+        "imaNNeoFighT/circular_bottom_navigation",
+        "novaday-co/flutter_event_calendar"
       ]
     },
     {
