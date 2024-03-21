@@ -173,6 +173,8 @@ Please review our [contributing guidelines](https://github.com/mohebifar/made-in
 14 | [@mafiagameir](https://github.com/mafiagameir)/[**mafia-game**](https://github.com/mafiagameir/mafia-game) | Mafia Game engine, Telegram bot and website | [:arrow_upper_right:](https://mafiagame.ir)
 12 | [@piran-framework](https://github.com/piran-framework)/[**ganjex**](https://github.com/piran-framework/ganjex) | Passive Container With Runtime Lifecycle Management | 
 9 | [@piran-framework](https://github.com/piran-framework)/[**geev**](https://github.com/piran-framework/geev) | Very simple and lightweight Role-Based Node Discovery Library | 
+24 | [@ham3da](https://github.com/ham3da)/[**Daryaye sokhan**](https://github.com/ham3da/daryaye-sokhan) | The Daryaye Sokhan is a valuable library of poetry of Persian great poets. | 
+
 
 
 <h3><a name="kotlin"></a>Kotlin</h3>
